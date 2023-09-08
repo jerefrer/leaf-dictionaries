@@ -1,0 +1,34 @@
+---
+  import { Icon } from '@astrojs/starlight/components';
+  import dictionaries from "../assets/dictionaries.json";
+---
+
+<table id="dictionaries-table" class="display">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>URL</th>
+      <th>Size</th>
+      <th>Origin</th>
+      <th>Destination</th>
+    </tr>
+  </thead>
+  <tbody>
+    {dictionaries.map((dictionary) => (
+      <tr>
+        <td>{dictionary.name}</td>
+        <td>
+          <a href={dictionary.url}><Icon name="document" /></a>
+        </td>
+        <td>{dictionary.size}</td>
+        <td>{dictionary.origin}</td>
+        <td>{dictionary.destination}</td>
+      </tr>
+    ))}
+  </tbody>
+</table>
+
+<script>
+  import DataTable from 'datatables.net-dt';
+  new DataTable('#dictionaries-table');
+</script>

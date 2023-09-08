@@ -1,0 +1,4485 @@
+[
+    {
+        "name": "The Collaborative International Dictionary of English",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd_www.dict.org_gcide-2.4.2.tar.bz2",
+        "size": "GPL, 35M, 174222 words"
+    },
+    {
+        "name": "WordNet",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd_www.dict.org_wn-2.4.2.tar.bz2",
+        "size": "GPL, 10.7M, 149535 words"
+    },
+    {
+        "name": "Moby Thesaurus II",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd-moby-thesaurus-2.4.2.tar.bz2",
+        "size": "GPL, 11M, 30259 words"
+    },
+    {
+        "name": "Webster's Revised Unabridged Dictionary (1913)",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd-web1913-2.4.2.tar.bz2",
+        "size": "GPL, 28M, 160161 words"
+    },
+    {
+        "name": "Elements database",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd_www.dict.org_elements-2.4.2.tar.bz2",
+        "size": "GPL, 18K, 127 words"
+    },
+    {
+        "name": "Virtual Entity of Relevant Acronyms",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd-vera-2.4.2.tar.bz2",
+        "size": "GPL, 214K, 7117 words"
+    },
+    {
+        "name": "Jargon File",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd-jargon-2.4.2.tar.bz2",
+        "size": "GPL, 668K, 2367 words"
+    },
+    {
+        "name": "Free On-Line Dictionary of Computing",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd_www.dict.org_foldoc-2.4.2.tar.bz2",
+        "size": "GPL, 2.3M, 13452 words"
+    },
+    {
+        "name": "Easton's 1897 Bible Dictionary",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd-easton-2.4.2.tar.bz2",
+        "size": "GPL, 1M, 3843 words"
+    },
+    {
+        "name": "Hitchcock's Bible Names Dictionary",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd_www.dict.org_hitchcock-2.4.2.tar.bz2",
+        "size": "GPL, 57K, 2611 words"
+    },
+    {
+        "name": "Bouvier's Law Dictionary",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd-bouvier-2.4.2.tar.bz2",
+        "size": "GPL, 2.3M, 6326 words"
+    },
+    {
+        "name": "THE DEVIL'S DICTIONARY",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd_www.dict.org_devils-2.4.2.tar.bz2",
+        "size": "GPL, 176K, 986 words",
+        "origin": "Virgin Islands, U.S.",
+        "destination": "Virgin Islands, U.S."
+    },
+    {
+        "name": "CIA World Factbook 2002",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd-world02-2.4.2.tar.bz2",
+        "size": "GPL, 1.5M, 272 words",
+        "origin": "C\u00f4te d'Ivoire",
+        "destination": "C\u00f4te d'Ivoire"
+    },
+    {
+        "name": "The CIA World Factbook (1995)",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd_www.dict.org_world95-2.4.2.tar.bz2",
+        "size": "GPL, 979K, 273 words",
+        "origin": "C\u00f4te d'Ivoire",
+        "destination": "C\u00f4te d'Ivoire"
+    },
+    {
+        "name": "U.S. Gazetteer (1990)",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd_www.dict.org_gazetteer-2.4.2.tar.bz2",
+        "size": "GPL, 2.2M, 52991 words"
+    },
+    {
+        "name": "U.S. Gazetteer Counties",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd-gazetteer2k-counties-2.4.2.tar.bz2",
+        "size": "GPL, 509K, 10223 words"
+    },
+    {
+        "name": "U.S. Gazetteer Places",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd-gazetteer2k-places-2.4.2.tar.bz2",
+        "size": "GPL, 2.8M, 42620 words"
+    },
+    {
+        "name": "U.S. Gazetteer Zip Code Tabulation Areas",
+        "url": "http://download.huzheng.org/dict.org/stardict-dictd-gazetteer2k-zips-2.4.2.tar.bz2",
+        "size": "GPL, 2.4M, 33246 words"
+    },
+    {
+        "name": "Longman Dictionary of Contemporary English",
+        "url": "http://download.huzheng.org/dict.org/stardict-longman-2.4.2.tar.bz2",
+        "size": "Free to use, 6.4M, 43052 words"
+    },
+    {
+        "name": "Oxford Advanced Learner's Dictionary",
+        "url": "http://download.huzheng.org/dict.org/stardict-oald-2.4.2.tar.bz2",
+        "size": "Free to use, 4.7M, 34153 words"
+    },
+    {
+        "name": "Collins Cobuild English Dictionary",
+        "url": "http://download.huzheng.org/dict.org/stardict-cced-2.4.2.tar.bz2",
+        "size": "Free to use, 5.1M, 34097 words"
+    },
+    {
+        "name": "Collins COBUILD Advanced Learner's Dictionary 2006",
+        "url": "http://download.huzheng.org/dict.org/stardict-collins5-2.4.2.tar.bz2",
+        "size": "Free to use, 6M, 34159 words",
+        "origin": "Israel",
+        "destination": "Israel"
+    },
+    {
+        "name": "Oxford Collocations Dictionary",
+        "url": "http://download.huzheng.org/dict.org/stardict-OxfordCollocationsDictionary-2.4.2.tar.bz2",
+        "size": "Free to use, 2.7M, 8378 words"
+    },
+    {
+        "name": "Merrian Webster 10th dictionary",
+        "url": "http://download.huzheng.org/dict.org/stardict-merrianwebster-2.4.2.tar.bz2",
+        "size": "Free to use, 2.5M, 20517 words"
+    },
+    {
+        "name": "The Britannica Concise Encyclopedia",
+        "url": "http://download.huzheng.org/dict.org/stardict-BritannicaConcise-2.4.2.tar.bz2",
+        "size": "Free to use, 7M, 24402 words"
+    },
+    {
+        "name": "English Thesaurus",
+        "url": "http://download.huzheng.org/dict.org/stardict-thesaurus-ee-2.4.2.tar.bz2",
+        "size": "Free to use, 2.2M, 20003 words"
+    },
+    {
+        "name": "CMU American English spelling",
+        "url": "http://download.huzheng.org/dict.org/stardict-cmudict-2.4.2.tar.bz2",
+        "size": "GPL, 1M, 105626 words",
+        "origin": "Mauritius",
+        "destination": "Mauritius"
+    },
+    {
+        "name": "The CMU Pronouncing Dictionary",
+        "url": "http://download.huzheng.org/dict.org/stardict-cmupd-2.4.2.tar.bz2",
+        "size": "GPL, 1.2M, 127012 words",
+        "origin": "Mauritius",
+        "destination": "Mauritius"
+    },
+    {
+        "name": "English irregular forms",
+        "url": "http://download.huzheng.org/dict.org/stardict-eng_irregular-2.4.2.tar.bz2",
+        "size": "GPL, 54K, 4690 words"
+    },
+    {
+        "name": "English Etymology",
+        "url": "http://download.huzheng.org/dict.org/stardict-EnglishEtymology-2.4.2.tar.bz2",
+        "size": "GPL, 1.8M, 18380 words"
+    },
+    {
+        "name": "Oxford English Collocation Dictionary",
+        "url": "http://download.huzheng.org/dict.org/stardict-oxford_collocations-2.4.2.tar.bz2",
+        "size": "Free to use, 1.9M, 8338 words"
+    },
+    {
+        "name": "eedic",
+        "url": "http://download.huzheng.org/dict.org/stardict-eedic-2.4.2.tar.bz2",
+        "size": "GPL, 1.4M, 22776 words"
+    },
+    {
+        "name": "Afrikaans - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-afr-deu-2.4.2.tar.bz2",
+        "size": "GPL, 66K"
+    },
+    {
+        "name": "Afrikaans - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-afr-eng-2.4.2.tar.bz2",
+        "size": "GPL, 82K"
+    },
+    {
+        "name": "Croatian - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-cro-eng-2.4.2.tar.bz2",
+        "size": "GPL, 1.3M"
+    },
+    {
+        "name": "Czech - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-cze-eng-2.4.2.tar.bz2",
+        "size": "GPL, 7K"
+    },
+    {
+        "name": "Danish - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-dan-eng-2.4.2.tar.bz2",
+        "size": "GPL, 62K"
+    },
+    {
+        "name": "German - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-deu-eng-2.4.2.tar.bz2",
+        "size": "GPL, 2M"
+    },
+    {
+        "name": "German - French",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-deu-fra-2.4.2.tar.bz2",
+        "size": "GPL, 119K"
+    },
+    {
+        "name": "German - Italian",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-deu-ita-2.4.2.tar.bz2",
+        "size": "GPL, 57K"
+    },
+    {
+        "name": "German - Dutch",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-deu-nld-2.4.2.tar.bz2",
+        "size": "GPL, 264K"
+    },
+    {
+        "name": "German - Portuguese",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-deu-por-2.4.2.tar.bz2",
+        "size": "GPL, 148K"
+    },
+    {
+        "name": "English - Afrikaans",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-afr-2.4.2.tar.bz2",
+        "size": "GPL, 86K"
+    },
+    {
+        "name": "English - Arabic",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-ara-2.4.2.tar.bz2",
+        "size": "GPL, 1.2M"
+    },
+    {
+        "name": "English - Croatian",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-cro-2.4.2.tar.bz2",
+        "size": "GPL, 1.2M"
+    },
+    {
+        "name": "English - Czech",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-cze-2.4.2.tar.bz2",
+        "size": "GPL, 2M"
+    },
+    {
+        "name": "English - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-deu-2.4.2.tar.bz2",
+        "size": "GPL, 2.1M"
+    },
+    {
+        "name": "English - French",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-fra-2.4.2.tar.bz2",
+        "size": "GPL, 178K"
+    },
+    {
+        "name": "English - Hindi",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-hin-2.4.2.tar.bz2",
+        "size": "GPL, 1.3M"
+    },
+    {
+        "name": "English - Hungarian",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-hun-2.4.2.tar.bz2",
+        "size": "GPL, 2.1M"
+    },
+    {
+        "name": "English - Irish",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-iri-2.4.2.tar.bz2",
+        "size": "GPL, 35K"
+    },
+    {
+        "name": "English - Italian",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-ita-2.4.2.tar.bz2",
+        "size": "GPL, 58K"
+    },
+    {
+        "name": "English - Latin",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-lat-2.4.2.tar.bz2",
+        "size": "GPL, 65K"
+    },
+    {
+        "name": "English - Dutch",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-nld-2.4.2.tar.bz2",
+        "size": "GPL, 2.3M"
+    },
+    {
+        "name": "English - Portuguese",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-por-2.4.2.tar.bz2",
+        "size": "GPL, 3.4M"
+    },
+    {
+        "name": "English - Romanian",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-rom-2.4.2.tar.bz2",
+        "size": "GPL, 24K"
+    },
+    {
+        "name": "English - Russian",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-rus-2.4.2.tar.bz2",
+        "size": "GPL, 47K"
+    },
+    {
+        "name": "English - Spanish",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-spa-2.4.2.tar.bz2",
+        "size": "GPL, 137K"
+    },
+    {
+        "name": "English - Swahili",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-swa-2.4.2.tar.bz2",
+        "size": "GPL, 22K"
+    },
+    {
+        "name": "English - Swedish",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-swe-2.4.2.tar.bz2",
+        "size": "GPL, 125K"
+    },
+    {
+        "name": "English - Turkish",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-tur-2.4.2.tar.bz2",
+        "size": "GPL, 1.9M"
+    },
+    {
+        "name": "English - Welsh",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-eng-wel-2.4.2.tar.bz2",
+        "size": "GPL, 25K"
+    },
+    {
+        "name": "French - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-fra-deu-2.4.2.tar.bz2",
+        "size": "GPL, 159K"
+    },
+    {
+        "name": "French - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-fra-eng-2.4.2.tar.bz2",
+        "size": "GPL, 190K"
+    },
+    {
+        "name": "French - Dutch",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-fra-nld-2.4.2.tar.bz2",
+        "size": "GPL, 283K"
+    },
+    {
+        "name": "Hungarian - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-hun-eng-2.4.2.tar.bz2",
+        "size": "GPL, 2.3M"
+    },
+    {
+        "name": "Irish - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-iri-eng-2.4.2.tar.bz2",
+        "size": "GPL, 16K"
+    },
+    {
+        "name": "Italian - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-ita-deu-2.4.2.tar.bz2",
+        "size": "GPL, 59K"
+    },
+    {
+        "name": "Japanese - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-jpn-deu-2.4.2.tar.bz2",
+        "size": "GPL, 7K"
+    },
+    {
+        "name": "Khasi - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-kha-deu-2.4.2.tar.bz2",
+        "size": "GPL, 21K"
+    },
+    {
+        "name": "Latin - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-lat-deu-2.4.2.tar.bz2",
+        "size": "GPL, 28K"
+    },
+    {
+        "name": "Latin - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-lat-eng-2.4.2.tar.bz2",
+        "size": "GPL, 34K"
+    },
+    {
+        "name": "Dutch - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-nld-deu-2.4.2.tar.bz2",
+        "size": "GPL, 446K"
+    },
+    {
+        "name": "Dutch - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-nld-eng-2.4.2.tar.bz2",
+        "size": "GPL, 565K"
+    },
+    {
+        "name": "Dutch - French",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-nld-fra-2.4.2.tar.bz2",
+        "size": "GPL, 393K"
+    },
+    {
+        "name": "Portuguese - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-por-deu-2.4.2.tar.bz2",
+        "size": "GPL, 147K"
+    },
+    {
+        "name": "Portuguese - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-por-eng-2.4.2.tar.bz2",
+        "size": "GPL, 167K"
+    },
+    {
+        "name": "Scottish - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-sco-deu-2.4.2.tar.bz2",
+        "size": "GPL, 4K"
+    },
+    {
+        "name": "Serbo-Croat - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-scr-eng-2.4.2.tar.bz2",
+        "size": "GPL, 6K"
+    },
+    {
+        "name": "Slovak - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-slo-eng-2.4.2.tar.bz2",
+        "size": "GPL, 12K"
+    },
+    {
+        "name": "Spanish - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-spa-eng-2.4.2.tar.bz2",
+        "size": "GPL, 99K"
+    },
+    {
+        "name": "Swahili - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-swa-eng-2.4.2.tar.bz2",
+        "size": "GPL, 25K"
+    },
+    {
+        "name": "Swedish - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-swe-eng-2.4.2.tar.bz2",
+        "size": "GPL, 74K"
+    },
+    {
+        "name": "Turkish - German",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-tur-deu-2.4.2.tar.bz2",
+        "size": "GPL, 15K"
+    },
+    {
+        "name": "Turkish - English",
+        "url": "http://download.huzheng.org/freedict.de/stardict-freedict-tur-eng-2.4.2.tar.bz2",
+        "size": "GPL, 15K"
+    },
+    {
+        "name": "dictd_www.mova.org_1000pbio",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_1000pbio-2.4.2.tar.bz2",
+        "size": "393K"
+    },
+    {
+        "name": "dictd_www.mova.org_aviation",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_aviation-2.4.2.tar.bz2",
+        "size": "17K"
+    },
+    {
+        "name": "dictd_www.mova.org_beslov",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_beslov-2.4.2.tar.bz2",
+        "size": "14.5M"
+    },
+    {
+        "name": "dictd_www.mova.org_biology",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_biology-2.4.2.tar.bz2",
+        "size": "135K"
+    },
+    {
+        "name": "dictd_www.mova.org_brok_and_efr",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_brok_and_efr-2.4.2.tar.bz2",
+        "size": "14M"
+    },
+    {
+        "name": "dictd_www.mova.org_compbe",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_compbe-2.4.2.tar.bz2",
+        "size": "6K"
+    },
+    {
+        "name": "dictd_www.mova.org_deutsch",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_deutsch-2.4.2.tar.bz2",
+        "size": "297K"
+    },
+    {
+        "name": "dictd_www.mova.org_engcom",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_engcom-2.4.2.tar.bz2",
+        "size": "GPL, 129K"
+    },
+    {
+        "name": "dictd_www.mova.org_ethnographic",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_ethnographic-2.4.2.tar.bz2",
+        "size": "55K"
+    },
+    {
+        "name": "dictd_www.mova.org_findict",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_findict-2.4.2.tar.bz2",
+        "size": "465K"
+    },
+    {
+        "name": "dictd_www.mova.org_geology_enru",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_geology_enru-2.4.2.tar.bz2",
+        "size": "54K"
+    },
+    {
+        "name": "dictd_www.mova.org_geology_ruen",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_geology_ruen-2.4.2.tar.bz2",
+        "size": "54K"
+    },
+    {
+        "name": "dictd_www.mova.org_idioms",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_idioms-2.4.2.tar.bz2",
+        "size": "30K"
+    },
+    {
+        "name": "dictd_www.mova.org_korolew_enru",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_korolew_enru-2.4.2.tar.bz2",
+        "size": "1.9M"
+    },
+    {
+        "name": "dictd_www.mova.org_korolew_ruen",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_korolew_ruen-2.4.2.tar.bz2",
+        "size": "2.2M"
+    },
+    {
+        "name": "dictd_www.mova.org_mech",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_mech-2.4.2.tar.bz2",
+        "size": "87K"
+    },
+    {
+        "name": "dictd_www.mova.org_ozhegov",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_ozhegov-2.4.2.tar.bz2",
+        "size": "2.9M"
+    },
+    {
+        "name": "dictd_www.mova.org_religion",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_religion-2.4.2.tar.bz2",
+        "size": "557K"
+    },
+    {
+        "name": "dictd_www.mova.org_sc-abbr",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_sc-abbr-2.4.2.tar.bz2",
+        "size": "30K"
+    },
+    {
+        "name": "dictd_www.mova.org_sinyagin_abbrev",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_sinyagin_abbrev-2.4.2.tar.bz2",
+        "size": "7K"
+    },
+    {
+        "name": "dictd_www.mova.org_sinyagin_alexeymavrin",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_sinyagin_alexeymavrin-2.4.2.tar.bz2",
+        "size": "511K"
+    },
+    {
+        "name": "dictd_www.mova.org_sinyagin_business",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_sinyagin_business-2.4.2.tar.bz2",
+        "size": "552K"
+    },
+    {
+        "name": "dictd_www.mova.org_sinyagin_computer",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_sinyagin_computer-2.4.2.tar.bz2",
+        "size": "385K"
+    },
+    {
+        "name": "dictd_www.mova.org_sinyagin_general_er",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_sinyagin_general_er-2.4.2.tar.bz2",
+        "size": "565K"
+    },
+    {
+        "name": "dictd_www.mova.org_sinyagin_general_re",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_sinyagin_general_re-2.4.2.tar.bz2",
+        "size": "550K"
+    },
+    {
+        "name": "dictd_www.mova.org_sinyagin_unsorted",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_sinyagin_unsorted-2.4.2.tar.bz2",
+        "size": "3K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_be-en",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_be-en-2.4.2.tar.bz2",
+        "size": "GPL, 162K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_be-pl",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_be-pl-2.4.2.tar.bz2",
+        "size": "GPL, 54K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_be-ru",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_be-ru-2.4.2.tar.bz2",
+        "size": "GPL, 191K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_be-uk",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_be-uk-2.4.2.tar.bz2",
+        "size": "GPL, 174K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_en-be",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_en-be-2.4.2.tar.bz2",
+        "size": "GPL, 229K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_en-pl",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_en-pl-2.4.2.tar.bz2",
+        "size": "GPL, 382K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_en-ru",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_en-ru-2.4.2.tar.bz2",
+        "size": "GPL, 1.4M"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_en-uk",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_en-uk-2.4.2.tar.bz2",
+        "size": "GPL, 1.4M"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_pl-be",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_pl-be-2.4.2.tar.bz2",
+        "size": "GPL, 75K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_pl-en",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_pl-en-2.4.2.tar.bz2",
+        "size": "GPL, 432K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_pl-ru",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_pl-ru-2.4.2.tar.bz2",
+        "size": "GPL, 753K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_pl-uk",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_pl-uk-2.4.2.tar.bz2",
+        "size": "GPL, 723K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_ru-be",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_ru-be-2.4.2.tar.bz2",
+        "size": "GPL, 240K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_ru-en",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_ru-en-2.4.2.tar.bz2",
+        "size": "GPL, 1.3M"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_ru-pl",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_ru-pl-2.4.2.tar.bz2",
+        "size": "GPL, 784K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_ru-uk",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_ru-uk-2.4.2.tar.bz2",
+        "size": "GPL, 7.6M"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_uk-be",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_uk-be-2.4.2.tar.bz2",
+        "size": "GPL, 223K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_uk-en",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_uk-en-2.4.2.tar.bz2",
+        "size": "GPL, 1.3M"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_uk-pl",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_uk-pl-2.4.2.tar.bz2",
+        "size": "GPL, 717K"
+    },
+    {
+        "name": "dictd_www.mova.org_slovnyk_uk-ru",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_slovnyk_uk-ru-2.4.2.tar.bz2",
+        "size": "GPL, 7.4M"
+    },
+    {
+        "name": "dictd_www.mova.org_smiley",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_smiley-2.4.2.tar.bz2",
+        "size": "5K"
+    },
+    {
+        "name": "dictd_www.mova.org_sokrat_enru",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_sokrat_enru-2.4.2.tar.bz2",
+        "size": "Commercial, 1.1M"
+    },
+    {
+        "name": "dictd_www.mova.org_sokrat_ruen",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_sokrat_ruen-2.4.2.tar.bz2",
+        "size": "Commercial, 1M"
+    },
+    {
+        "name": "dictd_www.mova.org_swedish",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_swedish-2.4.2.tar.bz2",
+        "size": "252K"
+    },
+    {
+        "name": "dictd_www.mova.org_teo",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_teo-2.4.2.tar.bz2",
+        "size": "574K"
+    },
+    {
+        "name": "dictd_www.mova.org_ushakov",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_ushakov-2.4.2.tar.bz2",
+        "size": "8.3M"
+    },
+    {
+        "name": "dictd_www.mova.org_zhelezyaki_abbr",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_zhelezyaki_abbr-2.4.2.tar.bz2",
+        "size": "6K"
+    },
+    {
+        "name": "dictd_www.mova.org_zhelezyaki_analogs",
+        "url": "http://download.huzheng.org/mova.org/stardict-dictd_www.mova.org_zhelezyaki_analogs-2.4.2.tar.bz2",
+        "size": "71K"
+    },
+    {
+        "name": "quick_afr-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_afr-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_afr-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_afr-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_bul-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_bul-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-deu",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-deu-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-fin",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-fin-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-fra",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-fra-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-hun",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-hun-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-ind",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-ind-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-ita",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-ita-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-jpn",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-jpn-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-lat",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-lat-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-nld",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-nld-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-nor",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-nor-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-por",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-por-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-rus",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-rus-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-spa",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-spa-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-swa",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-swa-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_dan-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_dan-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_deu-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_deu-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_deu-deu",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_deu-deu-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_deu-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_deu-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_deu-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_deu-swe-2.4.2.tar.bz2",
+        "size": "quick_frank-deu-eng is Commercial, others GPL"
+    },
+    {
+        "name": "quick_eng-afr",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-afr-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-deu",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-deu-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-fin",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-fin-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-fra",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-fra-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-gre",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-gre-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-hun",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-hun-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-ind",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-ind-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-ita",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-ita-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-jpn",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-jpn-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-lat",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-lat-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-nld",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-nld-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-nor",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-nor-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-por",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-por-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-rus",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-rus-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-spa",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-spa-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-swa",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-swa-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_esp-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_esp-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_fin-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_fin-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_fin-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_fin-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_fin-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_fin-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_fra-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_fra-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_fra-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_fra-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_fra-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_fra-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_fry-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_fry-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_gre-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_gre-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_gre-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_gre-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_hun-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_hun-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_hun-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_hun-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_hun-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_hun-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_ind-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_ind-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_ind-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_ind-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_ind-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_ind-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_isl-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_isl-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_ita-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_ita-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_ita-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_ita-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_ita-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_ita-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_jpn-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_jpn-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_jpn-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_jpn-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_jpn-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_jpn-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_lat-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_lat-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_lat-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_lat-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_lat-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_lat-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_nld-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_nld-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_nld-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_nld-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_nld-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_nld-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_nor-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_nor-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_nor-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_nor-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_nor-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_nor-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_pol-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_pol-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_por-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_por-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_por-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_por-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_por-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_por-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_rum-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_rum-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_rus-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_rus-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_rus-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_rus-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_rus-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_rus-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_slo-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_slo-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_spa-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_spa-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_spa-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_spa-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_spa-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_spa-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swa-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swa-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swa-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swa-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swa-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swa-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-afr",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-afr-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-bul",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-bul-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-dan",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-dan-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-deu",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-deu-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-eng",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-eng-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-esp",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-esp-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-fin",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-fin-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-fra",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-fra-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-fry",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-fry-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-gre",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-gre-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-hun",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-hun-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-ind",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-ind-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-isl",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-isl-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-ita",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-ita-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-jpn",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-jpn-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-lat",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-lat-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-nld",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-nld-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-nor",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-nor-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-pol",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-pol-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-por",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-por-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-rum",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-rum-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-rus",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-rus-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-slo",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-slo-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-spa",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-spa-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-swa",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-swa-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_swe-wel",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_swe-wel-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_wel-swe",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_wel-swe-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-persian-e2009",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_eng-persian-e2010-05-26-2.4.2.tar.bz2",
+        "size": "GPL, 1.7M"
+    },
+    {
+        "name": "quick persian-english (minimal)",
+        "url": "http://download.huzheng.org/Quick/stardict-quick_persian-english_minimal-2.4.2.tar.bz2",
+        "size": "GPL, 370K"
+    },
+    {
+        "name": "Afrikaans-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-afr-deu-2.4.2.tar.bz2",
+        "size": "GPL, 68K"
+    },
+    {
+        "name": "Afrikaans-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-afr-eng-2.4.2.tar.bz2",
+        "size": "GPL, 83K"
+    },
+    {
+        "name": "Arabic-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-ara-eng-2.4.2.tar.bz2",
+        "size": "GPL, 904K"
+    },
+    {
+        "name": "Breton-French",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-bre-fra-2.4.2.tar.bz2",
+        "size": "GPL, 635K"
+    },
+    {
+        "name": "Czech-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-ces-eng-2.4.2.tar.bz2",
+        "size": "GPL, 8K"
+    },
+    {
+        "name": "Sorani-Kurmanji",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-ckb-kmr-2.4.2.tar.bz2",
+        "size": "GPL, 182K"
+    },
+    {
+        "name": "Welsh-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-cym-eng-2.4.2.tar.bz2",
+        "size": "GPL, 197K"
+    },
+    {
+        "name": "Danish-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-dan-eng-2.4.2.tar.bz2",
+        "size": "GPL, 62K"
+    },
+    {
+        "name": "German-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-deu-eng-2.4.2.tar.bz2",
+        "size": "GPL, 2M"
+    },
+    {
+        "name": "German-French",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-deu-fra-2.4.2.tar.bz2",
+        "size": "GPL, 1.89M"
+    },
+    {
+        "name": "German-Italian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-deu-ita-2.4.2.tar.bz2",
+        "size": "GPL, 68K"
+    },
+    {
+        "name": "German-Kurdish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-deu-kur-2.4.2.tar.bz2",
+        "size": "GPL, 237K"
+    },
+    {
+        "name": "German-Dutch",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-deu-nld-2.4.2.tar.bz2",
+        "size": "GPL, 291K"
+    },
+    {
+        "name": "German-Portuguese",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-deu-por-2.4.2.tar.bz2",
+        "size": "GPL, 167K"
+    },
+    {
+        "name": "German-Swedish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-deu-swe-2.4.2.tar.bz2",
+        "size": "GPL, 2.28M"
+    },
+    {
+        "name": "German-Turkish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-deu-tur-2.4.2.tar.bz2",
+        "size": "GPL, 274K"
+    },
+    {
+        "name": "English-Afrikaans",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-afr-2.4.2.tar.bz2",
+        "size": "GPL, 88K"
+    },
+    {
+        "name": "English-Arabic",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-ara-2.4.2.tar.bz2",
+        "size": "GPL, 1.35M"
+    },
+    {
+        "name": "English-Czech",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-ces-2.4.2.tar.bz2",
+        "size": "GPL, 1.8M"
+    },
+    {
+        "name": "English-Welsh",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-cym-2.4.2.tar.bz2",
+        "size": "GPL, 194K"
+    },
+    {
+        "name": "English-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-deu-2.4.2.tar.bz2",
+        "size": "GPL, 2.15M"
+    },
+    {
+        "name": "English-Modern Greek",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-ell-2.4.2.tar.bz2",
+        "size": "GPL, 373K"
+    },
+    {
+        "name": "English-French",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-fra-2.4.2.tar.bz2",
+        "size": "GPL, 215K"
+    },
+    {
+        "name": "English-Irish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-gle-2.4.2.tar.bz2",
+        "size": "GPL, 30K"
+    },
+    {
+        "name": "English-Hindi",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-hin-2.4.2.tar.bz2",
+        "size": "GPL, 1.29M"
+    },
+    {
+        "name": "English-Croatian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-hrv-2.4.2.tar.bz2",
+        "size": "GPL, 1.22M"
+    },
+    {
+        "name": "English-Hungarian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-hun-2.4.2.tar.bz2",
+        "size": "GPL, 2.53M"
+    },
+    {
+        "name": "English-Italian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-ita-2.4.2.tar.bz2",
+        "size": "GPL, 60K"
+    },
+    {
+        "name": "English-Latin",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-lat-2.4.2.tar.bz2",
+        "size": "GPL, 65K"
+    },
+    {
+        "name": "English-Lithuanian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-lit-2.4.2.tar.bz2",
+        "size": "GPL, 263K"
+    },
+    {
+        "name": "English-Dutch",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-nld-2.4.2.tar.bz2",
+        "size": "GPL, 240K"
+    },
+    {
+        "name": "English-Portuguese",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-por-2.4.2.tar.bz2",
+        "size": "GPL, 373K"
+    },
+    {
+        "name": "English-Romanian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-rom-2.4.2.tar.bz2",
+        "size": "GPL, 18K"
+    },
+    {
+        "name": "English-Russian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-rus-2.4.2.tar.bz2",
+        "size": "GPL, 41K"
+    },
+    {
+        "name": "English-Spanish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-spa-2.4.2.tar.bz2",
+        "size": "GPL, 124K"
+    },
+    {
+        "name": "English-Serbian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-srp-2.4.2.tar.bz2",
+        "size": "GPL, 14K"
+    },
+    {
+        "name": "English-Swedish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-swe-2.4.2.tar.bz2",
+        "size": "GPL, 116K"
+    },
+    {
+        "name": "English-Swahili",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-swh-2.4.2.tar.bz2",
+        "size": "GPL, 22K"
+    },
+    {
+        "name": "English-Turkish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-eng-tur-2.4.2.tar.bz2",
+        "size": "GPL, 1.9M"
+    },
+    {
+        "name": "French-Breton",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-fra-bre-2.4.2.tar.bz2",
+        "size": "GPL, 548K"
+    },
+    {
+        "name": "French-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-fra-deu-2.4.2.tar.bz2",
+        "size": "GPL, 922K"
+    },
+    {
+        "name": "French-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-fra-eng-2.4.2.tar.bz2",
+        "size": "GPL, 215K"
+    },
+    {
+        "name": "French-Dutch",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-fra-nld-2.4.2.tar.bz2",
+        "size": "GPL, 281K"
+    },
+    {
+        "name": "Scottish Gaelic-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-gla-deu-2.4.2.tar.bz2",
+        "size": "GPL, 5K"
+    },
+    {
+        "name": "Irish-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-gle-eng-2.4.2.tar.bz2",
+        "size": "GPL, 18K"
+    },
+    {
+        "name": "Irish-Polish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-gle-pol-2.4.2.tar.bz2",
+        "size": "GPL, 6K"
+    },
+    {
+        "name": "Croatian-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-hrv-eng-2.4.2.tar.bz2",
+        "size": "GPL, 1.3M"
+    },
+    {
+        "name": "Hungarian-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-hun-eng-2.4.2.tar.bz2",
+        "size": "GPL, 2.69M"
+    },
+    {
+        "name": "Icelandic-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-isl-eng-2.4.2.tar.bz2",
+        "size": "GPL, 147K"
+    },
+    {
+        "name": "Italian-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-ita-deu-2.4.2.tar.bz2",
+        "size": "GPL, 49K"
+    },
+    {
+        "name": "Italian-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-ita-eng-2.4.2.tar.bz2",
+        "size": "GPL, 51K"
+    },
+    {
+        "name": "Japanese-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-jpn-deu-2.4.2.tar.bz2",
+        "size": "GPL, 8K"
+    },
+    {
+        "name": "Japanese-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-jpn-eng-2.4.2.tar.bz2",
+        "size": "GPL, 15M"
+    },
+    {
+        "name": "Japanese-French",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-jpn-fra-2.4.2.tar.bz2",
+        "size": "GPL, 1.5M"
+    },
+    {
+        "name": "Japanese-Russian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-jpn-rus-2.4.2.tar.bz2",
+        "size": "GPL, 637K"
+    },
+    {
+        "name": "Khasi-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-kha-deu-2.4.2.tar.bz2",
+        "size": "GPL, 21K"
+    },
+    {
+        "name": "Khasi-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-kha-eng-2.4.2.tar.bz2",
+        "size": "GPL, 57K"
+    },
+    {
+        "name": "Kurdish-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-kur-deu-2.4.2.tar.bz2",
+        "size": "GPL, 196K"
+    },
+    {
+        "name": "Kurdish-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-kur-eng-2.4.2.tar.bz2",
+        "size": "GPL, 41K"
+    },
+    {
+        "name": "Kurdish-Turkish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-kur-tur-2.4.2.tar.bz2",
+        "size": "GPL, 235K"
+    },
+    {
+        "name": "Latin-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-lat-deu-2.4.2.tar.bz2",
+        "size": "GPL, 177K"
+    },
+    {
+        "name": "Latin-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-lat-eng-2.4.2.tar.bz2",
+        "size": "GPL, 35K"
+    },
+    {
+        "name": "Lithuanian-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-lit-eng-2.4.2.tar.bz2",
+        "size": "GPL, 202K"
+    },
+    {
+        "name": "Macedonian-Bulgarian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-mkd-bul-2.4.2.tar.bz2",
+        "size": "GPL, 67K"
+    },
+    {
+        "name": "Dutch-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-nld-deu-2.4.2.tar.bz2",
+        "size": "GPL, 453K"
+    },
+    {
+        "name": "Dutch-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-nld-eng-2.4.2.tar.bz2",
+        "size": "GPL, 561K"
+    },
+    {
+        "name": "Dutch-French",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-nld-fra-2.4.2.tar.bz2",
+        "size": "GPL, 389K"
+    },
+    {
+        "name": "Nynorsk-Bokmal",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-nno-nob-2.4.2.tar.bz2",
+        "size": "GPL,751K"
+    },
+    {
+        "name": "Occitan-Catalan",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-oci-cat-2.4.2.tar.bz2",
+        "size": "GPL, 136K"
+    },
+    {
+        "name": "Polish-Irish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-pol-gle-2.4.2.tar.bz2",
+        "size": "GPL, 6K"
+    },
+    {
+        "name": "Portuguese-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-por-deu-2.4.2.tar.bz2",
+        "size": "GPL, 148K"
+    },
+    {
+        "name": "Portuguese-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-por-eng-2.4.2.tar.bz2",
+        "size": "GPL, 174K"
+    },
+    {
+        "name": "Sanskrit-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-san-deu-2.4.2.tar.bz2",
+        "size": "GPL, 4K"
+    },
+    {
+        "name": "Slovak-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-slk-eng-2.4.2.tar.bz2",
+        "size": "GPL, 14K"
+    },
+    {
+        "name": "Spanish-Asturian",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-spa-ast-2.4.2.tar.bz2",
+        "size": "GPL, 380K"
+    },
+    {
+        "name": "Spanish-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-spa-eng-2.4.2.tar.bz2",
+        "size": "GPL, 76K"
+    },
+    {
+        "name": "Spanish-Portuguese",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-spa-por-2.4.2.tar.bz2",
+        "size": "GPL, 4K"
+    },
+    {
+        "name": "Serbian-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-srp-eng-2.4.2.tar.bz2",
+        "size": "GPL, 7K"
+    },
+    {
+        "name": "Swedish-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-swe-deu-2.4.2.tar.bz2",
+        "size": "GPL, 676K"
+    },
+    {
+        "name": "Swedish-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-swe-eng-2.4.2.tar.bz2",
+        "size": "GPL, 74K"
+    },
+    {
+        "name": "Swahili-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-swh-eng-2.4.2.tar.bz2",
+        "size": "GPL, 57K"
+    },
+    {
+        "name": "Swahili-Polish",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-swh-pol-2.4.2.tar.bz2",
+        "size": "GPL, 27K"
+    },
+    {
+        "name": "Turkish-German",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-tur-deu-2.4.2.tar.bz2",
+        "size": "GPL, 17K"
+    },
+    {
+        "name": "Turkish-English",
+        "url": "http://download.huzheng.org/freedict2/stardict-freedict2-tur-eng-2.4.2.tar.bz2",
+        "size": "GPL, 16K"
+    },
+    {
+        "name": "cdict-gb dictionary(en - zh_CN)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-cdict-gb-2.4.2.tar.bz2",
+        "size": "GPL, 4.5M, 57510 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "stardict1.3 dictionary(en - zh_CN)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-stardict1.3-2.4.2.tar.bz2",
+        "size": "GPL, 1.1M, 51214 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "Sun Dict(en - zh_CN)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-sun_dict_e2c-2.4.2.tar.bz2",
+        "size": "GPL, 1M, 33042 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "xdict-ec-gb dictionary(en - zh_CN)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-xdict-ec-gb-2.4.2.tar.bz2",
+        "size": "GPL, 3.5M, 177842 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "xdict-ce-gb dictionary(zh_CN - en)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-xdict-ce-gb-2.4.2.tar.bz2",
+        "size": "GPL, 2.4M, 160997 words.",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "xdict-ec-gb dictionary fix(en - zh_CN)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-xdict-ec-gb_fix-2.4.2.tar.bz2",
+        "size": "GPL, 3.6M, 177817 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "xdict-ce-gb dictionary fix(zh_CN - en)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-xdict-ce-gb_fix-2.4.2.tar.bz2",
+        "size": "GPL, 2.4M, 160995 words.",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "oxford-gb dictionary(en - zh_CN) \u00e7\u0089\u009b\u00e6\u00b4\u00a5\u00e7\u008e\u00b0\u00e4\u00bb\u00a3\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e5\u008f\u008c\u00e8\u00a7\u00a3\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-oxford-gb-2.4.2.tar.bz2",
+        "size": "GPL, 7.6M, 39429 words. \u00e6\u008e\u00a8\u00e8\u008d\u0090\u00ef\u00bc\u0081",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "\u00e7\u0089\u009b\u00e6\u00b4\u00a5\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e5\u008f\u008c\u00e8\u00a7\u00a3\u00e7\u00be\u008e\u00e5\u008c\u0096\u00e7\u0089\u0088",
+        "url": "http://download.huzheng.org/zh_CN/stardict-oxford-gb-formated-2.4.2.tar.bz2",
+        "size": "GPL, 7.7M, 39429 words."
+    },
+    {
+        "name": "\u00e7\u0089\u009b\u00e6\u00b4\u00a5\u00e9\u00ab\u0098\u00e9\u0098\u00b6\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e5\u008f\u008c\u00e8\u00a7\u00a3",
+        "url": "http://download.huzheng.org/zh_CN/stardict-oald-cn-2.4.2.tar.bz2",
+        "size": "GPL, 7.7M, 39433 words."
+    },
+    {
+        "name": "cedict-gb dictionary(zh_CN - en)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-cedict-gb-2.4.2.tar.bz2",
+        "size": "CEDICT LICENCE, 0.7M, 31200 words. \u00e6\u008e\u00a8\u00e8\u008d\u0090\u00ef\u00bc\u0081",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "langdao-ec-gb dictionary(en - zh_CN) \u00e6\u009c\u0097\u00e9\u0081\u0093\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-langdao-ec-gb-2.4.2.tar.bz2",
+        "size": "GPL, 9.1M, 435468 words. \u00e6\u008e\u00a8\u00e8\u008d\u0090\u00ef\u00bc\u0081",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "langdao-ce-gb dictionary(zh_CN - en) \u00e6\u009c\u0097\u00e9\u0081\u0093\u00e6\u00b1\u0089\u00e8\u008b\u00b1\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-langdao-ce-gb-2.4.2.tar.bz2",
+        "size": "GPL, 7.8M, 405719 words. \u00e6\u008e\u00a8\u00e8\u008d\u0090\u00ef\u00bc\u0081",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "lazyworm-ec dictionary(en - zh_CN) \u00e6\u0087\u0092\u00e8\u0099\u00ab\u00e7\u00ae\u0080\u00e6\u0098\u008e\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-lazyworm-ec-2.4.2.tar.bz2",
+        "size": "GPL, 10M, 452185 words.",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "lazyworm-ce dictionary(zh_CN - en) \u00e6\u0087\u0092\u00e8\u0099\u00ab\u00e7\u00ae\u0080\u00e6\u0098\u008e\u00e6\u00b1\u0089\u00e8\u008b\u00b1\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-lazyworm-ce-2.4.2.tar.bz2",
+        "size": "GPL, 1.7M, 119592 words.",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "\u00e6\u0096\u00b0\u00e5\u008d\u008e\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-xhzd-2.4.2.tar.bz2",
+        "size": "GPL, 8.9M, 74025 words."
+    },
+    {
+        "name": "ProECCE dictionary \u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e6\u00b1\u0089\u00e8\u008b\u00b1\u00e4\u00b8\u0093\u00e4\u00b8\u009a\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-ProECCE-2.4.2.tar.bz2",
+        "size": "GPL, 8.6M, 571998 words.",
+        "origin": "Ecuador",
+        "destination": "Ecuador"
+    },
+    {
+        "name": "Hanzi Master (zh_CN - en)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-hanzim-2.4.2.tar.bz2",
+        "size": "GPL, 427K, 25992 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "XiangYa Medical dictionary \u00e6\u00b9\u0098\u00e9\u009b\u0085\u00e5\u008c\u00bb\u00e5\u00ad\u00a6\u00e4\u00b8\u0093\u00e4\u00b8\u009a\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-xiangya-medical-2.4.2.tar.bz2",
+        "size": "GPL, 28M, 1479322 words"
+    },
+    {
+        "name": "Advance Chinese big dictionary (zh_CN - zh_CN) \u00e9\u00ab\u0098\u00e7\u00ba\u00a7\u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e5\u00a4\u00a7\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-gaojihanyudacidian-2.4.2.tar.bz2",
+        "size": "GPL, 6.3M, 51675 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "Advance Chinese big dictionary (zh_CN - zh_CN) \u00e9\u00ab\u0098\u00e7\u00ba\u00a7\u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e5\u00a4\u00a7\u00e8\u00af\u008d\u00e5\u0085\u00b8\u00ef\u00bc\u0088\u00e4\u00bf\u00ae\u00e6\u00ad\u00a3\u00e7\u0089\u0088\u00ef\u00bc\u0089",
+        "url": "http://download.huzheng.org/zh_CN/stardict-gaojihanyudacidian_fix-2.4.2.tar.bz2",
+        "size": "GPL, 6.3M, 51675 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "International standard Chinese big dictionary (zh_CN - zh_CN) \u00e5\u009b\u00bd\u00e9\u0099\u0085\u00e6\u00a0\u0087\u00e5\u0087\u0086\u00e6\u00b1\u0089\u00e5\u00ad\u0097\u00e5\u00a4\u00a7\u00e8\u00be\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-guojibiaozhunhanzidacidian-2.4.2.tar.bz2",
+        "size": "GPL, 1.5M, 45053 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "Chinese idiom dictionary (zh_CN - zh_CN) \u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e6\u0088\u0090\u00e8\u00af\u00ad\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-hanyuchengyucidian-2.4.2.tar.bz2",
+        "size": "GPL, 2M, 24702 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "Chinese idiom dictionary (zh_CN - zh_CN) \u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e6\u0088\u0090\u00e8\u00af\u00ad\u00e8\u00af\u008d\u00e5\u0085\u00b8\u00ef\u00bc\u0088\u00e4\u00bf\u00ae\u00e6\u00ad\u00a3\u00e7\u0089\u0088\u00ef\u00bc\u0089",
+        "url": "http://download.huzheng.org/zh_CN/stardict-hanyuchengyucidian_fix-2.4.2.tar.bz2",
+        "size": "GPL, 1.9M, 13001 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "\u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e6\u0088\u0090\u00e8\u00af\u00ad\u00e8\u00af\u008d\u00e5\u0085\u00b8\u00ef\u00bc\u0088\u00e7\u00be\u008e\u00e5\u008c\u0096\u00e7\u0089\u0088\u00ef\u00bc\u0089",
+        "url": "http://download.huzheng.org/zh_CN/stardict-HanYuChengYuCiDian-new_colors-2.4.2.tar.bz2",
+        "size": "GPL, 2.8M, 13305 words"
+    },
+    {
+        "name": "Modern Chinese dictionary (zh_CN - zh_CN) \u00e7\u008e\u00b0\u00e4\u00bb\u00a3\u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-xiandaihanyucidian-2.4.2.tar.bz2",
+        "size": "GPL, 3.3M, 57643 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "Modern Chinese dictionary (zh_CN - zh_CN) \u00e7\u008e\u00b0\u00e4\u00bb\u00a3\u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e8\u00af\u008d\u00e5\u0085\u00b8\u00ef\u00bc\u0088\u00e4\u00bf\u00ae\u00e6\u00ad\u00a3\u00e7\u0089\u0088\u00ef\u00bc\u0089",
+        "url": "http://download.huzheng.org/zh_CN/stardict-xiandaihanyucidian_fix-2.4.2.tar.bz2",
+        "size": "GPL, 3.2M, 57691 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "21 century bidirectional dictionary 21\u00e4\u00b8\u0096\u00e7\u00ba\u00aa\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e6\u00b1\u0089\u00e8\u008b\u00b1\u00e5\u008f\u008c\u00e5\u0090\u0091\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-21shijishuangxiangcidian-2.4.2.tar.bz2",
+        "size": "GPL, 13M, 213723 words"
+    },
+    {
+        "name": "21 century bidirectional dictionary 21\u00e4\u00b8\u0096\u00e7\u00ba\u00aa\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e6\u00b1\u0089\u00e8\u008b\u00b1\u00e5\u008f\u008c\u00e5\u0090\u0091\u00e8\u00af\u008d\u00e5\u0085\u00b8\u00e5\u00ae\u008c\u00e6\u0095\u00b4\u00e7\u0089\u0088",
+        "url": "http://download.huzheng.org/zh_CN/stardict-21cen-2.4.2.tar.bz2",
+        "size": "GPL, 13.8M, 224820 words"
+    },
+    {
+        "name": "quick_eng-zh_CN \u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e4\u00b8\u0093\u00e4\u00b8\u009a\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-quick_eng-zh_CN-2.4.2.tar.bz2",
+        "size": "GPL, 10.7M, 634008 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "21 century bidirectional science and technology dictionary 21\u00e4\u00b8\u0096\u00e7\u00ba\u00aa\u00e5\u008f\u008c\u00e8\u00af\u00ad\u00e7\u00a7\u0091\u00e6\u008a\u0080\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-21shijishuangyukejicidian-2.4.2.tar.bz2",
+        "size": "GPL, 15M, 809486 words"
+    },
+    {
+        "name": "ncce-ec \u00e6\u0096\u00b0\u00e4\u00b8\u0096\u00e7\u00ba\u00aa\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e7\u00a7\u0091\u00e6\u008a\u0080\u00e5\u00a4\u00a7\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-ncce-ec-2.4.2.tar.bz2",
+        "size": "Free to use, 10.4M, 626953 words"
+    },
+    {
+        "name": "ncce-ce \u00e6\u0096\u00b0\u00e4\u00b8\u0096\u00e7\u00ba\u00aa\u00e6\u00b1\u0089\u00e8\u008b\u00b1\u00e7\u00a7\u0091\u00e6\u008a\u0080\u00e5\u00a4\u00a7\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-ncce-ce-2.4.2.tar.bz2",
+        "size": "Free to use, 10.6M, 621241 words"
+    },
+    {
+        "name": "kdic-ec-11w(en - zh_CN) KDic11\u00e4\u00b8\u0087\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-kdic-ec-11w-2.4.2.tar.bz2",
+        "size": "GPL, 2.3M, 112344 words.",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "kdic-computer-gb dictionary \u00e8\u00ae\u00a1\u00e7\u00ae\u0097\u00e6\u009c\u00ba\u00e8\u00af\u008d\u00e6\u00b1\u0087",
+        "url": "http://download.huzheng.org/zh_CN/stardict-kdic-computer-gb-2.4.2.tar.bz2",
+        "size": "GPL, 683K, 6131 words."
+    },
+    {
+        "name": "\u00e5\u008d\u0081\u00e5\u0085\u00ad\u00e9\u0083\u00a8\u00e4\u00bd\u009b\u00e5\u00ad\u00a6\u00e8\u00be\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/16Chinese_Buddhism_Dictionaries.tar.bz2",
+        "size": "Free to use, 22M"
+    },
+    {
+        "name": "FoGuang big dictionary (Buddhism) \u00e4\u00bd\u009b\u00e5\u0085\u0089\u00e5\u00a4\u00a7\u00e8\u00be\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-foguangdacidian-2.4.2.tar.bz2",
+        "size": "Free to use, 8.1M, 22555 words"
+    },
+    {
+        "name": "FaXiang dictionary (Buddhism) \u00e6\u00b3\u0095\u00e7\u009b\u00b8\u00e8\u00be\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-faxiangcidian-2.4.2.tar.bz2",
+        "size": "Free to use, 3M, 14603 words"
+    },
+    {
+        "name": "FoXue big dictionary (Buddhism) \u00e4\u00bd\u009b\u00e5\u00ad\u00a6\u00e5\u00a4\u00a7\u00e8\u00be\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-foxuedacidian-2.4.2.tar.bz2",
+        "size": "Free to use, 3.7M, 30928 words"
+    },
+    {
+        "name": "Soothill-Hodous Dictionary of Chinese Buddhist Terms(zh_CN - en)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-soothill-buddhist-gb-2.4.2.tar.bz2",
+        "size": "GPL, 1M, 16037 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "Eng-Ch-Eng dic of Buddhist terms",
+        "url": "http://download.huzheng.org/zh_CN/stardict-eng-ch-eng-buddhist-gb-2.4.2.tar.bz2",
+        "size": "GPL, 320K, 3441 words"
+    },
+    {
+        "name": "\u00e9\u0099\u0088\u00e4\u00b9\u0089\u00e5\u00ad\u009d\u00e4\u00bd\u009b\u00e5\u00ad\u00a6\u00e5\u00b8\u00b8\u00e8\u00a7\u0081\u00e8\u00be\u009e\u00e6\u00b1\u0087",
+        "url": "http://download.huzheng.org/zh_CN/stardict-chenyixiaofoxuechangjiancihui-gb-2.4.2.tar.bz2",
+        "size": "GPL, 319K, 5850 words"
+    },
+    {
+        "name": "SanZunFaSu (Buddhism) \u00e4\u00b8\u0089\u00e8\u0097\u008f\u00e6\u00b3\u0095\u00e6\u0095\u00b0",
+        "url": "http://download.huzheng.org/zh_CN/stardict-sanzunfasu-gb-2.4.2.tar.bz2",
+        "size": "GPL, 1.3M, 8084 words"
+    },
+    {
+        "name": "Chin-Eng-Buddhist",
+        "url": "http://download.huzheng.org/zh_CN/stardict-chin_eng_bud-2.4.2.tar.bz2",
+        "size": "GPL, 1.2M, 17979 words"
+    },
+    {
+        "name": "yusig \u00e5\u0094\u00af\u00e8\u00ad\u0098\u00e5\u0090\u008d\u00e8\u00a9\u009e\u00e7\u0099\u00bd\u00e8\u00a9\u00b1\u00e6\u0096\u00b0\u00e8\u00a7\u00a3",
+        "url": "http://download.huzheng.org/zh_CN/stardict-yusig-2.4.2.tar.bz2",
+        "size": "GPL, 365K, 1466 words"
+    },
+    {
+        "name": "Bulkwang Fo-Kuang",
+        "url": "http://download.huzheng.org/zh_CN/stardict-fokuang-2.4.2.tar.bz2",
+        "size": "GPL, 8.5M, 22646 words"
+    },
+    {
+        "name": "Various-Buddhist",
+        "url": "http://download.huzheng.org/zh_CN/stardict-various-buddhist-2.4.2.tar.bz2",
+        "size": "GPL, 13M, 55342 words"
+    },
+    {
+        "name": "Chinese-Uyghur Dictionary \u00e6\u00b1\u0089\u00e7\u00bb\u00b4\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-anatilim-chinese-uyghur_cn-uy-2.4.2.tar.bz2",
+        "size": "GPL, 10M, 328902 words."
+    },
+    {
+        "name": "Uyghur-Chinese Dictionary \u00e7\u00bb\u00b4\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-anatilim-uyghur-chinese_uy-cn-2.4.2.tar.bz2",
+        "size": "GPL, 11M, 385502 words."
+    },
+    {
+        "name": "Chinese-Uyghur Dictionary (Uyghur Latin Writing Edition)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-anatilim-chinese-uyghur-uly_cn-uy-2.4.2.tar.bz2",
+        "size": "GPL, 10M, 328902 words"
+    },
+    {
+        "name": "Uyghur-Chinese Dictionary (Uyghur Latin Writing Edition)",
+        "url": "http://download.huzheng.org/zh_CN/stardict-anatilim-uyghur-chinese-uly_uy-cn-2.4.2.tar.bz2",
+        "size": "GPL, 10M, 385486 words"
+    },
+    {
+        "name": "quick_de-zh_CN \u00e5\u00be\u00b7\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-quick_de-zh_CN-2.4.2.tar.bz2",
+        "size": "GPL, 3.2M, 104542 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "xindehan \u00e6\u0096\u00b0\u00e5\u00be\u00b7\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-xindehan-2.4.2.tar.bz2",
+        "size": "GPL, 3.3M, 106118 words"
+    },
+    {
+        "name": "Fundset\u00e5\u00be\u00b7\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-fundset-2.4.2.tar.bz2",
+        "size": "Free to use, 3.1M, 68985 words"
+    },
+    {
+        "name": "HanDeDict \u00e6\u00b1\u0089\u00e5\u00be\u00b7\u00e8\u00be\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-handedict-gb-2.4.2.tar.bz2",
+        "size": "GPL, 1.6M, 62505 words"
+    },
+    {
+        "name": "Chinese-French dictionary \u00e6\u00b1\u0089\u00e6\u00b3\u0095\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-cfdict-2.4.2.tar.bz2",
+        "size": "GPL, 645K, 25286 words"
+    },
+    {
+        "name": "French-Chinese and Chinese-French dictionary \u00e6\u00b3\u0095\u00e6\u00b1\u0089\u00e6\u00b1\u0089\u00e6\u00b3\u0095\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-fccf-2.4.2.tar.bz2",
+        "size": "Free to use, 12.5M, 368190 words"
+    },
+    {
+        "name": "English-Chinese dictionary \u00e6\u0088\u0091\u00e7\u0088\u00b1\u00e6\u00b3\u0095\u00e8\u00af\u00ad-\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-woaifayu-ec-2.4.2.tar.bz2",
+        "size": "GPL, 338K, 14857 words"
+    },
+    {
+        "name": "English-French dictionary \u00e6\u0088\u0091\u00e7\u0088\u00b1\u00e6\u00b3\u0095\u00e8\u00af\u00ad-\u00e8\u008b\u00b1\u00e6\u00b3\u0095\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-woaifayu-ef-2.4.2.tar.bz2",
+        "size": "GPL, 805K, 43096 words"
+    },
+    {
+        "name": "French-Chinese dictionary \u00e6\u0088\u0091\u00e7\u0088\u00b1\u00e6\u00b3\u0095\u00e8\u00af\u00ad-\u00e6\u00b3\u0095\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-woaifayu-fc-2.4.2.tar.bz2",
+        "size": "GPL, 1.4M, 34159 words"
+    },
+    {
+        "name": "French-English dictionary \u00e6\u0088\u0091\u00e7\u0088\u00b1\u00e6\u00b3\u0095\u00e8\u00af\u00ad-\u00e6\u00b3\u0095\u00e8\u008b\u00b1\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-woaifayu-fe-2.4.2.tar.bz2",
+        "size": "GPL, 938K, 36257 words"
+    },
+    {
+        "name": "French-French dictionary \u00e6\u0088\u0091\u00e7\u0088\u00b1\u00e6\u00b3\u0095\u00e8\u00af\u00ad-\u00e6\u00b3\u0095\u00e6\u00b3\u0095\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-woaifayu-ff-2.4.2.tar.bz2",
+        "size": "GPL, 1.5M, 27068 words"
+    },
+    {
+        "name": "French-Italian dictionary \u00e6\u0088\u0091\u00e7\u0088\u00b1\u00e6\u00b3\u0095\u00e8\u00af\u00ad-\u00e6\u00b3\u0095\u00e6\u0084\u008f\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-woaifayu-fi-2.4.2.tar.bz2",
+        "size": "GPL, 556K, 34757 words"
+    },
+    {
+        "name": "kdic-cj dictionary \u00e6\u00b1\u0089\u00e6\u0097\u00a5\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-kdic-cj-2.4.2.tar.bz2",
+        "size": "GPL, 925K, 28986 words"
+    },
+    {
+        "name": "kdic-jc dictionary \u00e6\u0097\u00a5\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-kdic-jc-2.4.2.tar.bz2",
+        "size": "GPL, 1.5M, 73827 words"
+    },
+    {
+        "name": "jc-special dictionary \u00e6\u0097\u00a5\u00e4\u00b8\u00ad\u00e7\u00ae\u0080\u00e6\u0098\u008e\u00e4\u00b8\u0093\u00e4\u00b8\u009a\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-jc-special-2.4.2.tar.bz2",
+        "size": "GPL, 5M, 277766 words"
+    },
+    {
+        "name": "DrEye4in1\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-DrEye4in1-2.4.2.tar.bz2",
+        "size": "GPL, 14M, 225226 words. \u00e6\u008e\u00a8\u00e8\u008d\u0090\u00ef\u00bc\u0081"
+    },
+    {
+        "name": "DrEye5in1\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-DrEye5in1-2.4.2.tar.bz2",
+        "size": "GPL, 13M, 217594 words"
+    },
+    {
+        "name": "DrEye\u00e6\u00b1\u0089\u00e6\u0097\u00a5\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-DrEye-cj-2.4.2.tar.bz2",
+        "size": "GPL, 911K, 40268 words"
+    },
+    {
+        "name": "DrEye\u00e6\u0097\u00a5\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-DrEye-jc-2.4.2.tar.bz2",
+        "size": "GPL, 2.7M, 91127 words"
+    },
+    {
+        "name": "\u00e5\u00b0\u008f\u00e5\u00ad\u00a6\u00e9\u00a6\u0086-\u00e4\u00b8\u00ad\u00e6\u0097\u00a5\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-XiaoXueTang-cj-2.4.2.tar.bz2",
+        "size": "Free to use, 6.1M, 70329 words"
+    },
+    {
+        "name": "\u00e5\u00b0\u008f\u00e5\u00ad\u00a6\u00e9\u00a6\u0086-\u00e6\u0097\u00a5\u00e4\u00b8\u00ad\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-XiaoXueTang-jc-2.4.2.tar.bz2",
+        "size": "Free to use, 7.8M, 76333 words"
+    },
+    {
+        "name": "\u00e6\u009c\u00ac\u00e8\u008d\u0089\u00e7\u00ba\u00b2\u00e7\u009b\u00ae",
+        "url": "http://download.huzheng.org/zh_CN/stardict-bcgm-2.4.2.tar.bz2",
+        "size": "GPL, 319K, 765 words"
+    },
+    {
+        "name": "\u00e8\u008b\u00b1\u00e6\u0096\u0087\u00e5\u00ad\u0097\u00e6\u00a0\u00b9\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-zigenzidian-2.4.2.tar.bz2",
+        "size": "GPL, 332K, 7835 words"
+    },
+    {
+        "name": "\u00e5\u00b9\u00bf\u00e4\u00b8\u009c\u00e4\u00bf\u0097\u00e8\u00af\u00ad\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-Cantonese_Simp-English-2.4.2.tar.bz2",
+        "size": "GPL, 301K, 7543 words"
+    },
+    {
+        "name": "\u00e4\u00b8\u0080\u00e5\u0085\u00b8\u00e9\u0080\u009a\u00e4\u00bf\u0084\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-yidiantong_ehan-2.4.2.tar.bz2",
+        "size": "GPL, 4.9M, 97364 words"
+    },
+    {
+        "name": "Unihan",
+        "url": "http://download.huzheng.org/zh_CN/stardict-Unihan-2.4.2.tar.bz2",
+        "size": "Free to use\t, 4.9M, 71226 words"
+    },
+    {
+        "name": "\u00e4\u00ba\u0094\u00e7\u00ac\u009486",
+        "url": "http://download.huzheng.org/zh_CN/stardict-wubi86-2.4.2.tar.bz2",
+        "size": "Free to use\t, 835K, 78641 words"
+    },
+    {
+        "name": "\u00e4\u00ba\u0094\u00e7\u00ac\u009498",
+        "url": "http://download.huzheng.org/zh_CN/stardict-wubi98-2.4.2.tar.bz2",
+        "size": "Free to use\t, 842K, 78597 words"
+    },
+    {
+        "name": "oxfordjm-ec dictionary(en - zh_CN) \u00e7\u0089\u009b\u00e6\u00b4\u00a5\u00e7\u00ae\u0080\u00e6\u0098\u008e\u00e8\u008b\u00b1\u00e6\u00b1\u0089\u00e8\u00a2\u0096\u00e7\u008f\u008d\u00e8\u00be\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-oxfordjm-ec-2.4.2.tar.bz2",
+        "size": "GPL, 3.8M, 142367 words.",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "\u00e5\u00ba\u00b7\u00e7\u0086\u0099\u00e5\u00ad\u0097\u00e5\u0085\u00b8\u00e6\u0096\u0087\u00e5\u00ad\u0097\u00e7\u0089\u0088",
+        "url": "http://download.huzheng.org/zh_CN/stardict-kangxitext-2.4.2.tar.bz2",
+        "size": "Public Domain, 4.3M, 46816 words"
+    },
+    {
+        "name": "\u00e5\u00ba\u00b7\u00e7\u0086\u0099\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-KangXiZiDian-3.0.0.tar.bz2",
+        "size": "Public Domain, 203M, 70205 words"
+    },
+    {
+        "name": "\u00e6\u00a2\u00b5\u00e9\u00ab\u0098\u00e8\u0091\u0097\u00e5\u0090\u008d\u00e4\u00bd\u009c\u00e5\u0093\u0081\u00e8\u00b5\u008f\u00e6\u009e\u0090",
+        "url": "http://download.huzheng.org/zh_CN/stardict-FanGaoZuoPin-3.0.0.tar.bz2",
+        "size": "Public Domain, 12M, 43 words"
+    },
+    {
+        "name": "\u00e5\u00bb\u00a3\u00e9\u009f\u00bb",
+        "url": "http://download.huzheng.org/zh_CN/stardict-guangyun-2.4.2.tar.bz2",
+        "size": "GPL, 162K, 3830 words"
+    },
+    {
+        "name": "\u00e5\u00bb\u00a3\u00e9\u009f\u00bb\u00e5\u008f\u008d\u00e6\u009f\u00a5",
+        "url": "http://download.huzheng.org/zh_CN/stardict-gyfancha-2.4.2.tar.bz2",
+        "size": "GPL, 172K, 20284 words"
+    },
+    {
+        "name": "Han-Viet \u00e6\u00b1\u0089\u00e8\u00b6\u008a",
+        "url": "http://download.huzheng.org/zh_CN/stardict-han_viet-2.4.2.tar.bz2",
+        "size": "GPL, 572K, 49731 words"
+    },
+    {
+        "name": "Viet-Han \u00e8\u00b6\u008a\u00e6\u00b1\u0089",
+        "url": "http://download.huzheng.org/zh_CN/stardict-viet_han-2.4.2.tar.bz2",
+        "size": "GPL, 421K, 29112 words"
+    },
+    {
+        "name": "Naver\u00e4\u00b8\u00ad\u00e9\u009f\u00a9\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-naver_cnkr-2.4.2.tar.bz2",
+        "size": "Free to use, 9.5M, 170492 words"
+    },
+    {
+        "name": "Naver\u00e9\u009f\u00a9\u00e4\u00b8\u00ad\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-naver_krcn-2.4.2.tar.bz2",
+        "size": "Free to use, 4.7M, 47880 words"
+    },
+    {
+        "name": "the MDBG CC-CEDICT Chinese-English dictionary",
+        "url": "http://download.huzheng.org/zh_CN/stardict-mdbg-cc-cedict-2.4.2.tar.bz2",
+        "size": "Creative Commons Attribution-Share Alike 3.0 License, 3.6M, 144922 words",
+        "origin": "Moldova, Republic of",
+        "destination": "Moldova, Republic of"
+    },
+    {
+        "name": "mdbg-cc-cedict-zh-cn-22-10-2014",
+        "url": "http://download.huzheng.org/zh_CN/stardict-mdbg-cc-cedict-zh-cn-2.4.2.tar.bz2",
+        "size": "Free to use, 3.3M, 106973 words"
+    },
+    {
+        "name": "\u00e8\u008f\u00af\u00e4\u00bf\u0084\u00e5\u00a4\u00a7\u00e8\u00be\u00ad\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-BKRS-2.4.2.tar.bz2",
+        "size": "Free to use, 18M, 324387 words"
+    },
+    {
+        "name": "CET4",
+        "url": "http://download.huzheng.org/zh_CN/stardict-CET4-2.4.2.tar.bz2",
+        "size": "Free to use, 1.3M, 4595 words",
+        "origin": "Ethiopia",
+        "destination": "Ethiopia"
+    },
+    {
+        "name": "CET6",
+        "url": "http://download.huzheng.org/zh_CN/stardict-CET6-2.4.2.tar.bz2",
+        "size": "Free to use, 572K, 2043 words",
+        "origin": "Ethiopia",
+        "destination": "Ethiopia"
+    },
+    {
+        "name": "TOEIC",
+        "url": "http://download.huzheng.org/zh_CN/stardict-TOEIC-2.4.2.tar.bz2",
+        "size": "Free to use, 190K, 605 words",
+        "origin": "Tonga",
+        "destination": "Tonga"
+    },
+    {
+        "name": "\u00e4\u00b8\u00ad\u00e5\u008d\u008e\u00e6\u0088\u0090\u00e8\u00af\u00ad\u00e5\u00a4\u00a7\u00e8\u00af\u008d\u00e5\u0085\u00b8 2.1",
+        "url": "http://download.huzheng.org/zh_CN/stardict-chengyuda-2.4.2.tar.bz2",
+        "size": "Free to use, 9.3M, 49472 words"
+    },
+    {
+        "name": "\u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e5\u00a4\u00a7\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-chibigenc-2.4.2.tar.bz2",
+        "size": "Free to use, 72M, 349514 words"
+    },
+    {
+        "name": "\u00e4\u00b8\u00ad\u00e5\u009b\u00bd\u00e5\u00a4\u00a7\u00e7\u0099\u00be\u00e7\u00a7\u0091\u00e5\u0085\u00a8\u00e4\u00b9\u00a62.0\u00e7\u0089\u0088",
+        "url": "http://download.huzheng.org/zh_CN/stardict-dbkqs-2.4.2.tar.bz2",
+        "size": "Free to use, 21M, 30624 words"
+    },
+    {
+        "name": "\u00e6\u008b\u0089\u00e6\u00b1\u0089\u00e8\u00af\u008d\u00e5\u0085\u00b8\u00ef\u00bc\u0088\u00e6\u008b\u0089\u00e4\u00b8\u0081\u00e6\u0096\u0087\u00e2\u0080\u0094\u00e4\u00b8\u00ad\u00e6\u0096\u0087\u00ef\u00bc\u0089",
+        "url": "http://download.huzheng.org/zh_CN/stardict-Latin-Chinese-2.4.2.tar.bz2",
+        "size": "Free to use, 143K, 3622 words"
+    },
+    {
+        "name": "\u00e8\u00a5\u00bf\u00e7\u008f\u00ad\u00e7\u0089\u0099\u00e8\u00af\u00ad-\u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-SCCS-2.4.2.tar.bz2",
+        "size": "Free to use, 1M, 53288 words"
+    },
+    {
+        "name": "eKamus \u00e9\u00a9\u00ac\u00e6\u009d\u00a5\u00e6\u0096\u0087\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-ekamus-2.4.2.tar.bz2",
+        "size": "Free to use, 302K, 10543 words"
+    },
+    {
+        "name": "eKamus BM-BC \u00e7\u00ae\u0080\u00e6\u0098\u008e\u00e9\u00a9\u00ac\u00e4\u00b8\u00ad\u00e8\u00af\u008d\u00e5\u0085\u00b8\u00ef\u00bc\u0088\u00e9\u00a9\u00ac\u00e6\u009d\u00a5\u00e6\u0096\u0087\u00e2\u0080\u0094\u00e4\u00b8\u00ad\u00e6\u0096\u0087\u00ef\u00bc\u0089",
+        "url": "http://download.huzheng.org/zh_CN/stardict-eKamus_BM-BC-2.4.2.tar.bz2",
+        "size": "Free to use, 250K, 14602 words",
+        "origin": "Bermuda",
+        "destination": "Bermuda"
+    },
+    {
+        "name": "\u00e5\u008f\u00a4\u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e5\u00b8\u00b8\u00e7\u0094\u00a8\u00e5\u00ad\u0097\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-ghycyzzd-2.4.2.tar.bz2",
+        "size": "Free to use, 823K, 3933 words"
+    },
+    {
+        "name": "\u00e6\u00b1\u0089\u00e8\u00af\u00ad\u00e8\u00be\u009e\u00e6\u00b5\u00b7",
+        "url": "http://download.huzheng.org/zh_CN/stardict-hycihai-2.4.2.tar.bz2",
+        "size": "Free to use, 17M, 380580 words"
+    },
+    {
+        "name": "\u00e6\u0097\u00a5\u00e6\u00b1\u0089\u00e5\u008f\u008c\u00e8\u00a7\u00a3\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-jilin_jc-2.4.2.tar.bz2",
+        "size": "Free to use, 3.9M, 30017 words"
+    },
+    {
+        "name": "\u00e5\u00ba\u0083\u00e8\u00be\u009e\u00e8\u008b\u0091\u00e3\u0080\u0080\u00e7\u00ac\u00ac\u00e5\u0085\u00ad\u00e7\u0089\u0088",
+        "url": "http://download.huzheng.org/zh_CN/stardict-kojien6-2.4.2.tar.bz2",
+        "size": "Free to use, 21M, 232795 words"
+    },
+    {
+        "name": "\u00e8\u00af\u0097\u00e8\u00af\u008d\u00e5\u0085\u00b8\u00e6\u0095\u0085\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-poemstory-2.4.2.tar.bz2",
+        "size": "Free to use, 406K, 2947 words"
+    },
+    {
+        "name": "\u00e5\u00b0\u008f\u00e5\u00ad\u00a6\u00e9\u00a4\u00a8\u00e4\u00b8\u00ad\u00e6\u0097\u00a5\u00e8\u00be\u009e\u00e5\u0085\u00b8EB\u00e7\u0089\u0088",
+        "url": "http://download.huzheng.org/zh_CN/stardict-sgk_zhongri-2.4.2.tar.bz2",
+        "size": "Free to use, 6.4M, 71951 words"
+    },
+    {
+        "name": "\u00e6\u0096\u00b0\u00e6\u0098\u008e\u00e8\u00a7\u00a3\u00e5\u009b\u00bd\u00e8\u00aa\u009e\u00e8\u00be\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-shinmeikai-2.4.2.tar.bz2",
+        "size": "Free to use, 6.1M, 72797 words"
+    },
+    {
+        "name": "\u00e6\u00ae\u00b5\u00e6\u00b3\u00a8\u00e8\u00aa\u00aa\u00e6\u0096\u0087\u00e8\u00a7\u00a3\u00e5\u00ad\u0097",
+        "url": "http://download.huzheng.org/zh_CN/stardict-swjznote-2.4.2.tar.bz2",
+        "size": "Free to use, 3.3M, 10737 words"
+    },
+    {
+        "name": "\u00e7\u00b2\u00a4\u00e6\u0097\u00a5\u00e5\u00b8\u00b8\u00e7\u0094\u00a8\u00e8\u00aa\u009e\u00e8\u00a9\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_CN/stardict-yutyat-2.4.2.tar.bz2",
+        "size": "Free to use, 599K, 8452 words"
+    },
+    {
+        "name": "cdict-big5 dictionary(en - zh_TW)",
+        "url": "http://download.huzheng.org/zh_TW/stardict-cdict-big5-2.4.2.tar.bz2",
+        "size": "GPL, 4.5M, 57508 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "CDICT\u00e5\u009c\u008b\u00e8\u00aa\u009e\u00e8\u00be\u00ad\u00e5\u0085\u00b8 (en - zh_TW)",
+        "url": "http://download.huzheng.org/zh_TW/stardict-CDICTbig-2.4.2.tar.bz2",
+        "size": "GPL, 18M, 157686 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "oxford-big5 dictionary(en - zh_TW) \u00e7\u0089\u009b\u00e6\u00b4\u00a5\u00e7\u008f\u00be\u00e4\u00bb\u00a3\u00e8\u008b\u00b1\u00e6\u00bc\u00a2\u00e9\u009b\u0099\u00e8\u00a7\u00a3\u00e8\u00a9\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-oxford-big5-2.4.2.tar.bz2",
+        "size": "GPL, 7.6M, 39429 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "xdict-ec-big5 dictionary(en - zh_TW)",
+        "url": "http://download.huzheng.org/zh_TW/stardict-xdict-ec-big5-2.4.2.tar.bz2",
+        "size": "GPL, 3.5M, 177824 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "xdict-ce-big5 dictionary(zh_TW - en)",
+        "url": "http://download.huzheng.org/zh_TW/stardict-xdict-ce-big5-2.4.2.tar.bz2",
+        "size": "GPL, 2.3M, 158152 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "xdict-ec-big5 dictionary fix (en - zh_TW)",
+        "url": "http://download.huzheng.org/zh_TW/stardict-xdict-ec-big5_fix-2.4.2.tar.bz2",
+        "size": "GPL, 3.5M, 174049 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "xdict-ce-big5 dictionary fix (zh_TW - en)",
+        "url": "http://download.huzheng.org/zh_TW/stardict-xdict-ce-big5_fix-2.4.2.tar.bz2",
+        "size": "GPL, 2.3M, 158137 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "Sun Dict(en - zh_TW)",
+        "url": "http://download.huzheng.org/zh_TW/stardict-sun_dict_e2t-2.4.2.tar.bz2",
+        "size": "GPL, 1M, 33042 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "cedict-big5 dictionary(zh_TW - en)",
+        "url": "http://download.huzheng.org/zh_TW/stardict-cedict-big5-2.4.2.tar.bz2",
+        "size": "CEDICT LICENCE, 0.7M, 33903 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "langdao-ec-big5 dictionary(en - zh_TW) \u00e6\u009c\u0097\u00e9\u0081\u0093\u00e8\u008b\u00b1\u00e6\u00bc\u00a2\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-langdao-ec-big5-2.4.2.tar.bz2",
+        "size": "GPL, 8.9M, 423246 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "langdao-ce-big5 dictionary(zh_TW - en) \u00e6\u009c\u0097\u00e9\u0081\u0093\u00e6\u00bc\u00a2\u00e8\u008b\u00b1\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-langdao-ce-big5-2.4.2.tar.bz2",
+        "size": "GPL, 7.7M, 395426 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "lazyworm-ec-big5 dictionary(en - zh_CN) \u00e6\u0087\u00b6\u00e8\u009f\u00b2\u00e7\u00b0\u00a1\u00e6\u0098\u008e\u00e8\u008b\u00b1\u00e6\u00bc\u00a2\u00e8\u00a9\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-lazyworm-ec-big5-2.4.2.tar.bz2",
+        "size": "GPL, 10M, 452184 words.",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "lazyworm-ce-big5 dictionary(zh_CN - en) \u00e6\u0087\u00b6\u00e8\u009f\u00b2\u00e7\u00b0\u00a1\u00e6\u0098\u008e\u00e6\u00bc\u00a2\u00e8\u008b\u00b1\u00e8\u00a9\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-lazyworm-ce-big5-2.4.2.tar.bz2",
+        "size": "GPL, 1.7M, 119522 words.",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "21 century bidirectional dictionary 21\u00e4\u00b8\u0096\u00e7\u00b4\u0080\u00e8\u008b\u00b1\u00e6\u00bc\u00a2\u00e6\u00bc\u00a2\u00e8\u008b\u00b1\u00e9\u009b\u0099\u00e5\u0090\u0091\u00e8\u00a9\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-21shijishuangxiangcidian-big5-2.4.2.tar.bz2",
+        "size": "GPL, 13M, 212918 words"
+    },
+    {
+        "name": "21 century bidirectional science and technology dictionary 21\u00e4\u00b8\u0096\u00e7\u00b4\u0080\u00e9\u009b\u0099\u00e8\u00aa\u009e\u00e7\u00a7\u0091\u00e6\u008a\u0080\u00e8\u00a9\u009e\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-21shijishuangyukejicidian-big5-2.4.2.tar.bz2",
+        "size": "GPL, 14M, 809239 words"
+    },
+    {
+        "name": "Soothill-Hodous Dictionary of Chinese Buddhist Terms(zh_TW - en)",
+        "url": "http://download.huzheng.org/zh_TW/stardict-soothill-buddhist-2.4.2.tar.bz2",
+        "size": "GPL, 1M, 16687 words",
+        "origin": "Taiwan, Province of China",
+        "destination": "Taiwan, Province of China"
+    },
+    {
+        "name": "FoGuang big dictionary (Buddhism) \u00e4\u00bd\u009b\u00e5\u0085\u0089\u00e5\u00a4\u00a7\u00e8\u00be\u00ad\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-foguangdacidian-big5-2.4.2.tar.bz2",
+        "size": "Free to use, 8.1M, 22521 words"
+    },
+    {
+        "name": "FaXiang dictionary (Buddhism) \u00e6\u00b3\u0095\u00e7\u009b\u00b8\u00e8\u00be\u00ad\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-faxiangcidian-big5-2.4.2.tar.bz2",
+        "size": "Free to use, 3M, 14599 words"
+    },
+    {
+        "name": "FoXue big dictionary (Buddhism) \u00e4\u00bd\u009b\u00e5\u00ad\u00b8\u00e5\u00a4\u00a7\u00e8\u00be\u00ad\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-foxuedacidian-big5-2.4.2.tar.bz2",
+        "size": "Free to use, 3.7M, 30842 words"
+    },
+    {
+        "name": "Eng-Ch-Eng dic of Buddhist terms",
+        "url": "http://download.huzheng.org/zh_TW/stardict-eng-ch-eng-buddhist-2.4.2.tar.bz2",
+        "size": "GPL, 320K, 3441 words"
+    },
+    {
+        "name": "\u00e9\u0099\u00b3\u00e7\u00be\u00a9\u00e5\u00ad\u009d\u00e4\u00bd\u009b\u00e5\u00ad\u00b8\u00e5\u00b8\u00b8\u00e8\u00a6\u008b\u00e8\u00be\u00ad\u00e5\u00bd\u0099",
+        "url": "http://download.huzheng.org/zh_TW/stardict-chenyixiaofoxuechangjiancihui-2.4.2.tar.bz2",
+        "size": "GPL, 320K, 5859 words"
+    },
+    {
+        "name": "SanZunFaSu (Buddhism) \u00e4\u00b8\u0089\u00e8\u0097\u008f\u00e6\u00b3\u0095\u00e6\u0095\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-sanzunfasu-2.4.2.tar.bz2",
+        "size": "GPL, 1.3M, 8091 words"
+    },
+    {
+        "name": "HanDeDict \u00e6\u00bc\u00a2\u00e5\u00be\u00b7\u00e8\u00be\u00ad\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-handedict-big5-2.4.2.tar.bz2",
+        "size": "GPL, 1.6M, 64097 words"
+    },
+    {
+        "name": "kdic-ec-14w-big5 dictionary \u00e8\u008b\u00b1\u00e8\u00ad\u00af\u00e4\u00b8\u00ad\u00e5\u00ad\u0097\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/zh_TW/stardict-kdic-ec-14w-big5-2.4.2.tar.bz2",
+        "size": "GPL, 3.3M, 141045 words"
+    },
+    {
+        "name": "\u00e5\u0085\u00a9\u00e8\u0090\u00ac\u00e5\u0096\u00ae\u00e5\u00ad\u0097",
+        "url": "http://download.huzheng.org/zh_TW/stardict-2wwords-2.4.2.tar.bz2",
+        "size": "GPL, 478K, 20615 words"
+    },
+    {
+        "name": "JMDict-en-ja dictionary",
+        "url": "http://download.huzheng.org/ja/stardict-jmdict-en-ja-2.4.2.tar.bz2",
+        "size": "The EDRDG Licence, 2.4M, 95443 words",
+        "origin": "Moldova, Republic of",
+        "destination": "Moldova, Republic of"
+    },
+    {
+        "name": "JMDict-ja-en dictionary",
+        "url": "http://download.huzheng.org/ja/stardict-jmdict-ja-en-2.4.2.tar.bz2",
+        "size": "The EDRDG Licence, 4.2M, 171879 words",
+        "origin": "Moldova, Republic of",
+        "destination": "Moldova, Republic of"
+    },
+    {
+        "name": "JCEDict dictionary(ja-zh_CN,en)",
+        "url": "http://download.huzheng.org/ja/stardict-JCEDict-2.4.2.tar.bz2",
+        "size": "The EDRDG Licence, 752K, 19973 words",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "JEDict dictionary(ja-en)",
+        "url": "http://download.huzheng.org/ja/stardict-JEDict-2.4.2.tar.bz2",
+        "size": "The EDRDG Licence, 2.5M, 107737 words",
+        "origin": "Jersey",
+        "destination": "Jersey"
+    },
+    {
+        "name": "EJDic (English-Japanese dictionary)",
+        "url": "http://download.huzheng.org/ja/stardict-ejdic-2.4.2.tar.bz2",
+        "size": "GPL, 927K, 13399 words"
+    },
+    {
+        "name": "EJ-GENE95 (English-Japanese dictionary)",
+        "url": "http://download.huzheng.org/ja/stardict-ej-gene95-2.4.2.tar.bz2",
+        "size": "GPL, 1.7M, 57369 words",
+        "origin": "Niger",
+        "destination": "Niger"
+    },
+    {
+        "name": "JE-EDICT_Kanji (Japanese-English dictionary)",
+        "url": "http://download.huzheng.org/ja/stardict-je-edict-kanji-2.4.2.tar.bz2",
+        "size": "The EDRDG Licence, 335K, 9223 words",
+        "origin": "Jersey",
+        "destination": "Jersey"
+    },
+    {
+        "name": "EJ-EDict (English-Japanese dictionary)",
+        "url": "http://download.huzheng.org/ja/stardict-ej-edict-2.4.2.tar.bz2",
+        "size": "GPL, 1M, 61346 words"
+    },
+    {
+        "name": "EDICT (Japanese/English electronic dictionary)",
+        "url": "http://download.huzheng.org/ja/stardict-edict-2.4.2.tar.bz2",
+        "size": "The EDRDG Licence, 2.8M, 112867 words"
+    },
+    {
+        "name": "ENAMDICT (Proper name dictionary)",
+        "url": "http://download.huzheng.org/ja/stardict-enamdict-2.4.2.tar.bz2",
+        "size": "The EDRDG Licence, 7.2M, 441544 words",
+        "origin": "Namibia",
+        "destination": "Namibia"
+    },
+    {
+        "name": "Kanjidic2 (Kanji dictionary)",
+        "url": "http://download.huzheng.org/ja/stardict-kanjidic2-2.4.2.tar.bz2",
+        "size": "The EDRDG Licence, 452K, 12707 words"
+    },
+    {
+        "name": "classical (Classical Japanese dictionary)",
+        "url": "http://download.huzheng.org/ja/stardict-classical-2.4.2.tar.bz2",
+        "size": "GPL, 20K, 519 words"
+    },
+    {
+        "name": "WaDokuJT Japanese-German dictionary",
+        "url": "http://download.huzheng.org/ja/stardict-wadokujt-2.4.2.tar.bz2",
+        "size": "GPL, 8M, 260268 words"
+    },
+    {
+        "name": "Japanese to German Dictionary",
+        "url": "http://download.huzheng.org/ja/stardict-jddict-2.4.2.tar.bz2",
+        "size": "GPL, 261K, 11259 words"
+    },
+    {
+        "name": "JR-EDICT electronic Japanese-Russian dictionary",
+        "url": "http://download.huzheng.org/ja/stardict-jredict-2.4.2.tar.bz2",
+        "size": "GPL, 186K, 7828 words"
+    },
+    {
+        "name": "Japanese/English Life Science Dictionary",
+        "url": "http://download.huzheng.org/ja/stardict-ediclsd4-2.4.2.tar.bz2",
+        "size": "GPL, 780K, 34286 words"
+    },
+    {
+        "name": "COMPDIC (computing and telecommunications industries)",
+        "url": "http://download.huzheng.org/ja/stardict-compdic-2.4.2.tar.bz2",
+        "size": "The EDRDG Licence, 303K, 14092 words",
+        "origin": "Oman",
+        "destination": "Oman"
+    },
+    {
+        "name": "ENGSCIDIC (engineering and physical sciences)",
+        "url": "http://download.huzheng.org/ja/stardict-engscidic-2.4.2.tar.bz2",
+        "size": "GPL, 368K, 14192 words",
+        "origin": "Seychelles",
+        "destination": "Seychelles"
+    },
+    {
+        "name": "Japanese-English River and Water Resources Glossary",
+        "url": "http://download.huzheng.org/ja/stardict-riverwater-2.4.2.tar.bz2",
+        "size": "GPL, 1.1M, 44320 words"
+    },
+    {
+        "name": "Japanese place-names",
+        "url": "http://download.huzheng.org/ja/stardict-jplaces-2.4.2.tar.bz2",
+        "size": "GPL, 1.3M, 72201 words"
+    },
+    {
+        "name": "GEODIC (geological terminology)",
+        "url": "http://download.huzheng.org/ja/stardict-geodic-2.4.2.tar.bz2",
+        "size": "GPL, 30K, 1311 words",
+        "origin": "Georgia",
+        "destination": "Georgia"
+    },
+    {
+        "name": "J/E Linguistics Dictionary",
+        "url": "http://download.huzheng.org/ja/stardict-lingdic-2.4.2.tar.bz2",
+        "size": "GPL, 67K, 2881 words"
+    },
+    {
+        "name": "Japanese forestry terms",
+        "url": "http://download.huzheng.org/ja/stardict-forsdic_e-2.4.2.tar.bz2",
+        "size": "GPL, 23K, 784 words"
+    },
+    {
+        "name": "Japanese forestry terms (Spanish)",
+        "url": "http://download.huzheng.org/ja/stardict-forsdic_s-2.4.2.tar.bz2",
+        "size": "GPL, 10K, 250 words"
+    },
+    {
+        "name": "E/J Aviation Dictionary",
+        "url": "http://download.huzheng.org/ja/stardict-aviation-2.4.2.tar.bz2",
+        "size": "GPL, 21K, 739 words"
+    },
+    {
+        "name": "Concrete Terminology Glossary",
+        "url": "http://download.huzheng.org/ja/stardict-concrete-2.4.2.tar.bz2",
+        "size": "GPL, 29K, 1055 words"
+    },
+    {
+        "name": "FINDIC (financial terms)",
+        "url": "http://download.huzheng.org/ja/stardict-findic-2.4.2.tar.bz2",
+        "size": "GPL, 19K, 564 words",
+        "origin": "India",
+        "destination": "India"
+    },
+    {
+        "name": "MKTDIC (business & marketing glossary)",
+        "url": "http://download.huzheng.org/ja/stardict-mktdic-2.4.2.tar.bz2",
+        "size": "GPL, 15K, 459 words",
+        "origin": "Chad",
+        "destination": "Chad"
+    },
+    {
+        "name": "COMPVERB (Japanese compound verbs)",
+        "url": "http://download.huzheng.org/ja/stardict-compverb-2.4.2.tar.bz2",
+        "size": "GPL, 37K, 1223 words",
+        "origin": "Venezuela, Bolivarian Republic of",
+        "destination": "Venezuela, Bolivarian Republic of"
+    },
+    {
+        "name": "Constellation names",
+        "url": "http://download.huzheng.org/ja/stardict-star-jp-2.4.2.tar.bz2",
+        "size": "GPL, 5K, 106 words"
+    },
+    {
+        "name": "4JWORDS (4-kanji ideomatic expressions and proverbs)",
+        "url": "http://download.huzheng.org/ja/stardict-4jword3-2.4.2.tar.bz2",
+        "size": "GPL, 151K, 3183 words"
+    },
+    {
+        "name": "Buddhism words and phrases",
+        "url": "http://download.huzheng.org/ja/stardict-buddhdic-2.4.2.tar.bz2",
+        "size": "GPL, 388K, 16037 words"
+    },
+    {
+        "name": "Korean Dic",
+        "url": "http://download.huzheng.org/ko/stardict-KoreanDic-2.4.2.tar.bz2",
+        "size": "Free to use, 8M, 147722 words"
+    },
+    {
+        "name": "quick_english-korean",
+        "url": "http://download.huzheng.org/ko/stardict-quick_eng-kor-2.4.2.tar.bz2",
+        "size": "GPL, 3,5M, 94170 words"
+    },
+    {
+        "name": "quick_korean-english",
+        "url": "http://download.huzheng.org/ko/stardict-quick_kor-eng-2.4.2.tar.bz2",
+        "size": "GPL, 7.6M, 49757 words"
+    },
+    {
+        "name": "Korean-English Dic",
+        "url": "http://download.huzheng.org/ko/stardict-KoreanEnglishDic-2.4.2.tar.bz2",
+        "size": "Free to use, 7M, 49757 words"
+    },
+    {
+        "name": "Hanja(Korean Hanzi) Dic",
+        "url": "http://download.huzheng.org/ko/stardict-Hanja_KoreanHanzi_Dic-2.4.2.tar.bz2",
+        "size": "Free to use, 2.5M, 124831 words"
+    },
+    {
+        "name": "Korean Law Dic",
+        "url": "http://download.huzheng.org/ko/stardict-KoreanLawDic-2.4.2.tar.bz2",
+        "size": "Free to use, 1.1M, 3225 words"
+    },
+    {
+        "name": "Korean Medical Dic",
+        "url": "http://download.huzheng.org/ko/stardict-KoreanMedicalDic-2.4.2.tar.bz2",
+        "size": "Free to use, 543K, 7721 words"
+    },
+    {
+        "name": "Korean Animal Medical Dic",
+        "url": "http://download.huzheng.org/ko/stardict-KoreanAnimalMedicalDic-2.4.2.tar.bz2",
+        "size": "Free to use, 516K, 33845 words"
+    },
+    {
+        "name": "Korean-Russian dictionary",
+        "url": "http://download.huzheng.org/ko/stardict-GPL_korean-russian-dic-2.4.2.tar.bz2",
+        "size": "GPL, 1.5M, 29080 words"
+    },
+    {
+        "name": "Dal dictionary",
+        "url": "http://download.huzheng.org/ru/stardict-dal-ru-2.4.2.tar.bz2",
+        "size": "8.6M, 43642 words"
+    },
+    {
+        "name": "Computer dictionary",
+        "url": "http://download.huzheng.org/ru/stardict-computer-ru-2.4.2.tar.bz2",
+        "size": "330K, 5144 words"
+    },
+    {
+        "name": "PC-user dictionary",
+        "url": "http://download.huzheng.org/ru/stardict-pc-user-ru-2.4.2.tar.bz2",
+        "size": "326K, 9635 words"
+    },
+    {
+        "name": "The Open English-Russian Dictionary of Computer Terms",
+        "url": "http://download.huzheng.org/ru/stardict-engcom-ru-2.4.2.tar.bz2",
+        "size": "151K, 2286 words"
+    },
+    {
+        "name": "en-ru-bars",
+        "url": "http://download.huzheng.org/ru/stardict-en-ru-bars-2.4.2.tar.bz2",
+        "size": "10M"
+    },
+    {
+        "name": "mueller7",
+        "url": "http://download.huzheng.org/ru/stardict-mueller7-2.4.2.tar.bz2",
+        "size": "GPL, 3M"
+    },
+    {
+        "name": "mueller7 accent",
+        "url": "http://download.huzheng.org/ru/stardict-Mueller7accentGPL-2.4.2.tar.bz2",
+        "size": "GPL, 3.6M"
+    },
+    {
+        "name": "Full English-Russian",
+        "url": "http://download.huzheng.org/ru/stardict-full-eng-rus-2.4.2.tar.bz2",
+        "size": "GPL, 32.4M"
+    },
+    {
+        "name": "Full Russian-English",
+        "url": "http://download.huzheng.org/ru/stardict-full-rus-eng-2.4.2.tar.bz2",
+        "size": "GPL, 12M"
+    },
+    {
+        "name": "Civil_Aviation_En-Ru__Internet_Pack",
+        "url": "http://download.huzheng.org/ru/stardict-Civil_Aviation_En-Ru__Internet_Pack.tar.bz2",
+        "size": "GPL, 4.6M"
+    },
+    {
+        "name": "Electrical_En-Ru__Internet_Pack",
+        "url": "http://download.huzheng.org/ru/stardict-Electrical_En-Ru__Internet_Pack.tar.bz2",
+        "size": "GPL, 552K"
+    },
+    {
+        "name": "Maritime_Technical_En-Ru__Internet_Pack",
+        "url": "http://download.huzheng.org/ru/stardict-Maritime_Technical_En-Ru__Internet_Pack.tar.bz2",
+        "size": "GPL, 882K"
+    },
+    {
+        "name": "Military_En-Ru__Internet_Pack",
+        "url": "http://download.huzheng.org/ru/stardict-Military_En-Ru__Internet_Pack.tar.bz2",
+        "size": "GPL, 741K"
+    },
+    {
+        "name": "Naval_En-Ru__Internet_Pack",
+        "url": "http://download.huzheng.org/ru/stardict-Naval_En-Ru__Internet_Pack.tar.bz2",
+        "size": "GPL, 284K"
+    },
+    {
+        "name": "LingvoUniversal (English-Russian)",
+        "url": "http://download.huzheng.org/lingvo/stardict-ER-LingvoUniversal-2.4.2.tar.bz2",
+        "size": "11M, 96720 words"
+    },
+    {
+        "name": "LingvoUniversal (Russian-English)",
+        "url": "http://download.huzheng.org/lingvo/stardict-RE-LingvoUniversal-2.4.2.tar.bz2",
+        "size": "4M, 84795 words"
+    },
+    {
+        "name": "LingvoUniversal (German-Russian)",
+        "url": "http://download.huzheng.org/lingvo/stardict-GR-LingvoUniversal-2.4.2.tar.bz2",
+        "size": "10M, 175656 words"
+    },
+    {
+        "name": "LingvoUniversal (Russian-German)",
+        "url": "http://download.huzheng.org/lingvo/stardict-RG-LingvoUniversal-2.4.2.tar.bz2",
+        "size": "2.5M, 35325 words"
+    },
+    {
+        "name": "LingvoUniversal (French-Russian)",
+        "url": "http://download.huzheng.org/lingvo/stardict-FR-LingvoUniversal-2.4.2.tar.bz2",
+        "size": "6M, 78502 words"
+    },
+    {
+        "name": "LingvoUniversal (Russian-French)",
+        "url": "http://download.huzheng.org/lingvo/stardict-RF-LingvoUniversal-2.4.2.tar.bz2",
+        "size": "3.5M, 50464 words"
+    },
+    {
+        "name": "Lingvo Business (Fr-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-FR-Business-2.4.2.tar.bz2",
+        "size": "579K, 12101 words"
+    },
+    {
+        "name": "Lingvo Business (Ru-Fr)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RF-Business-2.4.2.tar.bz2",
+        "size": "573K, 13120 words"
+    },
+    {
+        "name": "Lingvo Chemistry (Fr-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-FR-Chemistry-2.4.2.tar.bz2",
+        "size": "2.2M, 64612 words"
+    },
+    {
+        "name": "Lingvo Chemistry (Ru-Fr)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RF-Chemistry-2.4.2.tar.bz2",
+        "size": "1.3M, 51262 words"
+    },
+    {
+        "name": "Lingvo Essential (Fr-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-FR-Essential-2.4.2.tar.bz2",
+        "size": "500K, 14102 words"
+    },
+    {
+        "name": "Lingvo Essential (Ru-Fr)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RF-Essential-2.4.2.tar.bz2",
+        "size": "557K, 14908 words"
+    },
+    {
+        "name": "Lingvo Idioms (Fr-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-FR-Idioms-2.4.2.tar.bz2",
+        "size": "6M, 46205 words"
+    },
+    {
+        "name": "Lingvo PhraseBook (Ru-Fr)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RF-PhraseBook-2.4.2.tar.bz2",
+        "size": "42K, 566 words"
+    },
+    {
+        "name": "Lingvo Law (Fr-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-FR-Law-2.4.2.tar.bz2",
+        "size": "1.2M, 27231 words"
+    },
+    {
+        "name": "Lingvo Law (Ru-Fr)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RF-Law-2.4.2.tar.bz2",
+        "size": "593K, 17258 words"
+    },
+    {
+        "name": "Lingvo Medical (Fr-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-FR-Medical-2.4.2.tar.bz2",
+        "size": "2.1M, 53950 words"
+    },
+    {
+        "name": "Lingvo Medical (Ru-Fr)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RF-Medical-2.4.2.tar.bz2",
+        "size": "1.6M, 47874 words"
+    },
+    {
+        "name": "Lingvo OilAndGas (Fr-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-FR-OilAndGas-2.4.2.tar.bz2",
+        "size": "870K, 24241 words"
+    },
+    {
+        "name": "Lingvo OilAndGas (Ru-Fr)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RF-OilAndGas-2.4.2.tar.bz2",
+        "size": "492K, 17306 words"
+    },
+    {
+        "name": "Lingvo Technical (Fr-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-FR-Technical-2.4.2.tar.bz2",
+        "size": "2.7M, 69336 words"
+    },
+    {
+        "name": "Lingvo Technical (Ru-Fr)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RF-Technical-2.4.2.tar.bz2",
+        "size": "1.6M, 55261 words"
+    },
+    {
+        "name": "Lingvo Accounting (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Accounting-2.4.2.tar.bz2",
+        "size": "1M, 5987 words"
+    },
+    {
+        "name": "Lingvo Americana (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Americana-2.4.2.tar.bz2",
+        "size": "5M, 20967 words"
+    },
+    {
+        "name": "Lingvo Auto (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Auto-2.4.2.tar.bz2",
+        "size": "516K, 14693 words"
+    },
+    {
+        "name": "Lingvo Auto (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Auto-2.4.2.tar.bz2",
+        "size": "436K"
+    },
+    {
+        "name": "Lingvo Biology (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Biology-2.4.2.tar.bz2",
+        "size": "2.7M, 67284 words"
+    },
+    {
+        "name": "Lingvo Biology (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Biology-2.4.2.tar.bz2",
+        "size": "2M"
+    },
+    {
+        "name": "Lingvo Building (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Building-2.4.2.tar.bz2",
+        "size": "2M, 49787 words"
+    },
+    {
+        "name": "Lingvo Building (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Building-2.4.2.tar.bz2",
+        "size": "1.1M"
+    },
+    {
+        "name": "Lingvo Computer (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Computer-2.4.2.tar.bz2",
+        "size": "2.2M, 47180 words"
+    },
+    {
+        "name": "Lingvo Computer (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Computer-2.4.2.tar.bz2",
+        "size": "1.1M"
+    },
+    {
+        "name": "Lingvo Computers (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Computers-2.4.2.tar.bz2",
+        "size": "1.5M, 13729 words"
+    },
+    {
+        "name": "Lingvo Computers (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Computers-2.4.2.tar.bz2",
+        "size": "273K"
+    },
+    {
+        "name": "Lingvo Economics (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Economics-2.4.2.tar.bz2",
+        "size": "2.1M, 48824 words"
+    },
+    {
+        "name": "Lingvo Economics (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Economics-2.4.2.tar.bz2",
+        "size": "1M"
+    },
+    {
+        "name": "Lingvo Engineering (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Engineering-2.4.2.tar.bz2",
+        "size": "3.1M, 73601 words"
+    },
+    {
+        "name": "Lingvo Engineering (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Engineering-2.4.2.tar.bz2",
+        "size": "1.3M"
+    },
+    {
+        "name": "Lingvo Essential (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Essential-2.4.2.tar.bz2",
+        "size": "6.7M, 38864 words"
+    },
+    {
+        "name": "Lingvo Essential (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Essential-2.4.2.tar.bz2",
+        "size": "2.5M"
+    },
+    {
+        "name": "Lingvo FinancialManagement (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-FinancialManagement-2.4.2.tar.bz2",
+        "size": "1.2M, 7460 words"
+    },
+    {
+        "name": "Lingvo FinancialMarkets (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-FinancialMarkets-2.4.2.tar.bz2",
+        "size": "1.7M, 11389 words"
+    },
+    {
+        "name": "Lingvo Grammar (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Grammar-2.4.2.tar.bz2",
+        "size": "274K, 510 words"
+    },
+    {
+        "name": "Lingvo GreatBritain (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-GreatBritain-2.4.2.tar.bz2",
+        "size": "1.1M, 9537 words"
+    },
+    {
+        "name": "Lingvo Informal (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Informal-2.4.2.tar.bz2",
+        "size": "2.2M, 15132 words"
+    },
+    {
+        "name": "Lingvo Law (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Law-2.4.2.tar.bz2",
+        "size": "1.5M"
+    },
+    {
+        "name": "Lingvo Law (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Law-2.4.2.tar.bz2",
+        "size": "571K"
+    },
+    {
+        "name": "Lingvo Management (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Management-2.4.2.tar.bz2",
+        "size": "1.8M, 8961 words"
+    },
+    {
+        "name": "Lingvo Marketing (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Marketing-2.4.2.tar.bz2",
+        "size": "1.5M, 11527 words"
+    },
+    {
+        "name": "Lingvo MechanicalEngineering (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-MechanicalEngineering-2.4.2.tar.bz2",
+        "size": "534K, 13515 words"
+    },
+    {
+        "name": "Lingvo MechanicalEngineering (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-MechanicalEngineering-2.4.2.tar.bz2",
+        "size": "420K"
+    },
+    {
+        "name": "Lingvo Medical (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Medical-2.4.2.tar.bz2",
+        "size": "2M, 55500 words"
+    },
+    {
+        "name": "Lingvo Medical (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Medical-2.4.2.tar.bz2",
+        "size": "2.2M"
+    },
+    {
+        "name": "Lingvo OilAndGas (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-OilAndGas-2.4.2.tar.bz2",
+        "size": "2.1M, 49683 words"
+    },
+    {
+        "name": "Lingvo OilAndGas (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-OilAndGas-2.4.2.tar.bz2",
+        "size": "859K"
+    },
+    {
+        "name": "Lingvo PhraseBook (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-PhraseBook-2.4.2.tar.bz2",
+        "size": "41K"
+    },
+    {
+        "name": "Lingvo Patents (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Patents-2.4.2.tar.bz2",
+        "size": "539K, 11782 words"
+    },
+    {
+        "name": "Lingvo Patents (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Patents-2.4.2.tar.bz2",
+        "size": "360K"
+    },
+    {
+        "name": "Lingvo Physics (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Physics-2.4.2.tar.bz2",
+        "size": "2.1M, 80661 words"
+    },
+    {
+        "name": "Lingvo Physics (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Physics-2.4.2.tar.bz2",
+        "size": "3M"
+    },
+    {
+        "name": "Lingvo Polytechnical (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Polytechnical-2.4.2.tar.bz2",
+        "size": "7.7M, 176294 words"
+    },
+    {
+        "name": "Lingvo Polytechnical (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Polytechnical-2.4.2.tar.bz2",
+        "size": "3.8M"
+    },
+    {
+        "name": "Lingvo Science (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Science-2.4.2.tar.bz2",
+        "size": "5.8M, 152595 words"
+    },
+    {
+        "name": "Lingvo Science (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Science-2.4.2.tar.bz2",
+        "size": "3.7M"
+    },
+    {
+        "name": "Lingvo Telecoms (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Telecoms-2.4.2.tar.bz2",
+        "size": "1.2M, 32995 words"
+    },
+    {
+        "name": "Lingvo Telecoms (Ru-En)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RE-Telecoms-2.4.2.tar.bz2",
+        "size": "785K"
+    },
+    {
+        "name": "Lingvo Wine (En-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-ER-Wine-2.4.2.tar.bz2",
+        "size": "214K, 954 words"
+    },
+    {
+        "name": "Lingvo Active (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Active-2.4.2.tar.bz2",
+        "size": "674K"
+    },
+    {
+        "name": "Lingvo Austria (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Austria-2.4.2.tar.bz2",
+        "size": "915K"
+    },
+    {
+        "name": "Lingvo AutoService (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-AutoService-2.4.2.tar.bz2",
+        "size": "1M"
+    },
+    {
+        "name": "Lingvo AutoService (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-AutoService-2.4.2.tar.bz2",
+        "size": "447K"
+    },
+    {
+        "name": "Lingvo Auto (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Auto-2.4.2.tar.bz2",
+        "size": "525K"
+    },
+    {
+        "name": "Lingvo Auto (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-Auto-2.4.2.tar.bz2",
+        "size": "586K"
+    },
+    {
+        "name": "Lingvo Banks (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Banks-2.4.2.tar.bz2",
+        "size": "537K"
+    },
+    {
+        "name": "Lingvo Banks (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-Banks-2.4.2.tar.bz2",
+        "size": "669K"
+    },
+    {
+        "name": "Lingvo Chemistry (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Chemistry-2.4.2.tar.bz2",
+        "size": "1.8M"
+    },
+    {
+        "name": "Lingvo Chemistry (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-Chemistry-2.4.2.tar.bz2",
+        "size": "1M"
+    },
+    {
+        "name": "Lingvo Economics (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Economics-2.4.2.tar.bz2",
+        "size": "1.8M"
+    },
+    {
+        "name": "Lingvo Economics (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-Economics-2.4.2.tar.bz2",
+        "size": "834K"
+    },
+    {
+        "name": "Lingvo Essential (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Essential-2.4.2.tar.bz2",
+        "size": "1.1M"
+    },
+    {
+        "name": "Lingvo Essential (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-Essential-2.4.2.tar.bz2",
+        "size": "1.1M"
+    },
+    {
+        "name": "Lingvo Food (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Food-2.4.2.tar.bz2",
+        "size": "1.7M"
+    },
+    {
+        "name": "Lingvo Food (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-Food-2.4.2.tar.bz2",
+        "size": "1.1M"
+    },
+    {
+        "name": "Lingvo Law (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Law-2.4.2.tar.bz2",
+        "size": "1.3M"
+    },
+    {
+        "name": "Lingvo Law (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-Law-2.4.2.tar.bz2",
+        "size": "576K"
+    },
+    {
+        "name": "Lingvo Medical (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Medical-2.4.2.tar.bz2",
+        "size": "1.5M"
+    },
+    {
+        "name": "Lingvo Medical (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-Medical-2.4.2.tar.bz2",
+        "size": "1.4M"
+    },
+    {
+        "name": "Lingvo PhraseBook (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-PhraseBook-2.4.2.tar.bz2",
+        "size": "42K"
+    },
+    {
+        "name": "Lingvo Polytechnical (Ge-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-GR-Polytechnical-2.4.2.tar.bz2",
+        "size": "4.9M"
+    },
+    {
+        "name": "Lingvo Polytechnical (Ru-Ge)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RG-Polytechnical-2.4.2.tar.bz2",
+        "size": "2.8M"
+    },
+    {
+        "name": "Lingvo Auto (It-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-IR-Auto-2.4.2.tar.bz2",
+        "size": "481K"
+    },
+    {
+        "name": "Lingvo Economics (It-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-IR-Economics-2.4.2.tar.bz2",
+        "size": "471K"
+    },
+    {
+        "name": "Lingvo Essential (It-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-IR-Essential-2.4.2.tar.bz2",
+        "size": "1.7M"
+    },
+    {
+        "name": "Lingvo Medical (It-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-IR-Medical-2.4.2.tar.bz2",
+        "size": "909K"
+    },
+    {
+        "name": "Lingvo Polytechnical (It-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-IR-Polytechnical-2.4.2.tar.bz2",
+        "size": "2.3M"
+    },
+    {
+        "name": "Lingvo Universal (It-Ru)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-IR-Universal-2.4.2.tar.bz2",
+        "size": "5.5M"
+    },
+    {
+        "name": "Lingvo Auto (Ru-It)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RI-Auto-2.4.2.tar.bz2",
+        "size": "328K"
+    },
+    {
+        "name": "Lingvo Economics (Ru-It)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RI-Economics-2.4.2.tar.bz2",
+        "size": "466K"
+    },
+    {
+        "name": "Lingvo Medical (Ru-It)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RI-Medical-2.4.2.tar.bz2",
+        "size": "789K"
+    },
+    {
+        "name": "Lingvo PhraseBook (Ru-It)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RI-PhraseBook-2.4.2.tar.bz2",
+        "size": "41K"
+    },
+    {
+        "name": "Lingvo Polytechnical (Ru-It)",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-RI-Polytechnical-2.4.2.tar.bz2",
+        "size": "3.8M"
+    },
+    {
+        "name": "Kotov's Chinese-Russian dictionary",
+        "url": "http://download.huzheng.org/lingvo/stardict-lingvo-CR-kotov-2.4.2.tar.bz2",
+        "size": "1.3M"
+    },
+    {
+        "name": "LDaF (Langenscheidt Grosswoerterbuch: Deutsch als Fremdsprache)",
+        "url": "http://download.huzheng.org/de/stardict-ldaf-2.4.2.tar.bz2",
+        "size": "8.3M, 57822 words."
+    },
+    {
+        "name": "Duden",
+        "url": "http://download.huzheng.org/de/stardict-duden-2.4.2.tar.bz2",
+        "size": "8M, 118901 words."
+    },
+    {
+        "name": "Pape, Altgriechisch-Deutsch",
+        "url": "http://download.huzheng.org/de/stardict-pape_gr-de-2.4.2.tar.bz2",
+        "size": "13M, 98893 words."
+    },
+    {
+        "name": "Georges, Lateinisch-Deutsch",
+        "url": "http://download.huzheng.org/de/stardict-georges_lat-de-2.4.2.tar.bz2",
+        "size": "11M, 54815 words."
+    },
+    {
+        "name": "Georges, Deutsch-Lateinisch",
+        "url": "http://download.huzheng.org/de/stardict-georges_de-lat-2.4.2.tar.bz2",
+        "size": "4M, 26608 words."
+    },
+    {
+        "name": "XMLittre French dictionnary Le Littr\u00c3\u00a9",
+        "url": "http://download.huzheng.org/fr/stardict-xmlittre-2.4.2.tar.bz2",
+        "size": "GPL, 30M, 123221 words",
+        "origin": "Mali",
+        "destination": "Mali"
+    },
+    {
+        "name": "Dictionnaire de l\u00e2\u0080\u0099Acad\u00c3\u00a9mie Fran\u00c3\u00a7aise, 6\u00c3\u00a8me \u00c3\u00a9dition (1835)",
+        "url": "http://download.huzheng.org/fr/stardict-dicoAF1835_27.xdxf-2.4.2.tar.bz2",
+        "size": "GPL, 6.5M, 28153 words"
+    },
+    {
+        "name": "Grand Dictionnaire de Cuisine, d\u00e2\u0080\u0099Alexandre Dumas (1873)",
+        "url": "http://download.huzheng.org/fr/stardict-dictionnaireCuisine38.xdxf-2.4.2.tar.bz2",
+        "size": "GPL, 890K, 2463 words"
+    },
+    {
+        "name": "Fran\u00c3\u00a7ais_Corse",
+        "url": "http://download.huzheng.org/fr/stardict-francais-corse-2.4.2.tar.bz2",
+        "size": "GPL, 22K, 1801 words"
+    },
+    {
+        "name": "Corse_Fran\u00c3\u00a7ais",
+        "url": "http://download.huzheng.org/fr/stardict-corse-francais-2.4.2.tar.bz2",
+        "size": "GPL, 23K, 2008 words"
+    },
+    {
+        "name": "Fran\u00c3\u00a7ais-Breton",
+        "url": "http://download.huzheng.org/fr/stardict-francais-breton-2.4.2.tar.bz2",
+        "size": "GPL, 526K, 32965 words"
+    },
+    {
+        "name": "Breton-Fran\u00c3\u00a7ais",
+        "url": "http://download.huzheng.org/fr/stardict-breton-francais-2.4.2.tar.bz2",
+        "size": "GPL, 526K, 32971 words"
+    },
+    {
+        "name": "Latin-French",
+        "url": "http://download.huzheng.org/fr/stardict-latin-francais-2.4.2.tar.bz2",
+        "size": "GPL, 224K, 10451 words"
+    },
+    {
+        "name": "Japanese-French",
+        "url": "http://download.huzheng.org/fr/stardict-japonais-francais-2.4.2.tar.bz2",
+        "size": "GPL, 501K, 16784 words"
+    },
+    {
+        "name": "dictionnaire-des-idees_recues",
+        "url": "http://download.huzheng.org/fr/stardict-ideesrecues8.xdxf-2.4.2.tar.bz2",
+        "size": "GPL, 46K, 960 words"
+    },
+    {
+        "name": "Dictionnaire de l\u00e2\u0080\u0099Acad\u00c3\u00a9mie Fran\u00c3\u00a7aise, 8\u00c3\u00a8me \u00c3\u00a9dition (1935)",
+        "url": "http://download.huzheng.org/fr/stardict-Dico_result_38.xdxf-2.4.2.tar.bz2",
+        "size": "GPL, 5.6M, 31216 words"
+    },
+    {
+        "name": "ga\u00c3\u00ablique d'Irlande-fran\u00c3\u00a7ais",
+        "url": "http://download.huzheng.org/fr/stardict-gaeliqueirlandais-francais-2.4.2.tar.bz2",
+        "size": "GPL, 95K, 5723 words"
+    },
+    {
+        "name": "Lexique kabyle-fran\u00c3\u00a7ais",
+        "url": "http://download.huzheng.org/fr/stardict-kabyle-francais-2.4.2.tar.bz2",
+        "size": "GPL, 58K, 3247 words"
+    },
+    {
+        "name": "Wallon-Fran\u00c3\u00a7ais",
+        "url": "http://download.huzheng.org/fr/stardict-Wallon_Francais-2.4.2.tar.bz2",
+        "size": "GPL, 165K, 12775 words"
+    },
+    {
+        "name": "hongrois-francais",
+        "url": "http://download.huzheng.org/fr/stardict-hongrois-francais-2.4.2.tar.bz2",
+        "size": "GPL, 101K, 6982 words"
+    },
+    {
+        "name": "arabe-fran\u00c3\u00a7ais",
+        "url": "http://download.huzheng.org/fr/stardict-arabe-francais-2.4.2.tar.bz2",
+        "size": "GPL, 15K, 1060 words"
+    },
+    {
+        "name": "baya-fran\u00c3\u00a7ais",
+        "url": "http://download.huzheng.org/fr/stardict-baya-francais-2.4.2.tar.bz2",
+        "size": "GPL, 8K, 501 words"
+    },
+    {
+        "name": "sum\u00c3\u00a9rien-fran\u00c3\u00a7ais",
+        "url": "http://download.huzheng.org/fr/stardict-sum-fra-2.4.2.tar.bz2",
+        "size": "GPL, 6K, 373 words"
+    },
+    {
+        "name": "quick_czech-nld",
+        "url": "http://download.huzheng.org/misc/stardict-quick_czech-nld-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_nld-czech",
+        "url": "http://download.huzheng.org/misc/stardict-quick_nld-czech-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "quick_eng-persian",
+        "url": "http://download.huzheng.org/misc/stardict-quick_eng-persian-2.4.2.tar.bz2",
+        "size": "GPL, 1.5M, 50259 words"
+    },
+    {
+        "name": "xFarDic: Electronic-Computer English-Persian Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-xfardic-computer-elec-2.4.2.tar.bz2",
+        "size": "GPL, 433K, 11416 words"
+    },
+    {
+        "name": "xFarDic: GNU/Linux English-English Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-xfardic-gnu-linux-2.4.2.tar.bz2",
+        "size": "GPL, 1.3M, 16694 words",
+        "origin": "Niue",
+        "destination": "Niue"
+    },
+    {
+        "name": "xFarDic: Refrence Dictionary for Linux Enviroment Translation",
+        "url": "http://download.huzheng.org/misc/stardict-xfardic-fldic-2.4.2.tar.bz2",
+        "size": "GPL, 24K, 1804 words"
+    },
+    {
+        "name": "xFarDic: GNU Collaborative International Dictionary of English",
+        "url": "http://download.huzheng.org/misc/stardict-xfardic-gcide-2.4.2.tar.bz2",
+        "size": "GPL, 11M, 109284 words",
+        "origin": "Niue",
+        "destination": "Niue"
+    },
+    {
+        "name": "English-Vietnamese",
+        "url": "http://download.huzheng.org/misc/stardict-dictd_anh-viet-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "Vietnamese-English",
+        "url": "http://download.huzheng.org/misc/stardict-dictd_viet-anh-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "French-Vietnamese",
+        "url": "http://download.huzheng.org/misc/stardict-dictd_phap-viet-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "Vietnamese-French",
+        "url": "http://download.huzheng.org/misc/stardict-dictd_viet-phap-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "German-Vietnamese",
+        "url": "http://download.huzheng.org/misc/stardict-dictd_duc-viet-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "Vietnamese-German",
+        "url": "http://download.huzheng.org/misc/stardict-dictd_viet-duc-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "Vietnamese dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-dictd_viet-viet-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "Norwegian-Vietnamese",
+        "url": "http://download.huzheng.org/misc/stardict-dictd_nauy-viet-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "Nga-Viet",
+        "url": "http://download.huzheng.org/misc/stardict-dictd_nga-viet-2.4.2.tar.bz2",
+        "size": "GPL"
+    },
+    {
+        "name": "English-Thai Lexitron Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-lexitron-et-2.4.2.tar.bz2",
+        "size": "GPL, 2.4M, 53011 words"
+    },
+    {
+        "name": "Thai-English Lexitron Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-lexitron-te-2.4.2.tar.bz2",
+        "size": "GPL, 3.1M, 32364 words"
+    },
+    {
+        "name": "English-Hindi Shabdanjali Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-shabdanjali-2.4.2.tar.bz2",
+        "size": "GPL, 1.2M, 27011 words"
+    },
+    {
+        "name": "English-Esperanto",
+        "url": "http://download.huzheng.org/misc/stardict-English-Esperanto-2.4.2.tar.bz2",
+        "size": "GPL, 157K, 13630 words"
+    },
+    {
+        "name": "Esperanto-English",
+        "url": "http://download.huzheng.org/misc/stardict-Esperanto-English-2.4.2.tar.bz2",
+        "size": "GPL, 32K, 2077 words"
+    },
+    {
+        "name": "Chinese-Esperanto",
+        "url": "http://download.huzheng.org/misc/stardict-Chinese-Esperanto-2.4.2.tar.bz2",
+        "size": "GPL, 174K, 13083 words"
+    },
+    {
+        "name": "Esperanto-Chinese",
+        "url": "http://download.huzheng.org/misc/stardict-Esperanto-Chinese-2.4.2.tar.bz2",
+        "size": "GPL, 165K, 11918 words"
+    },
+    {
+        "name": "Monier-Williams Sanskrit-English Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-mw-Sanskrit-English-2.4.2.tar.bz2",
+        "size": "GPL, 9M, 149499 words"
+    },
+    {
+        "name": "Tokipona official word list",
+        "url": "http://download.huzheng.org/misc/stardict-tokipona-nimi-2.4.2.tar.bz2",
+        "size": "GPL, 5K, 118 words"
+    },
+    {
+        "name": "I2E English-Spanish Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-i2e-2.4.2.tar.bz2",
+        "size": "GPL, 280K, 22167 words"
+    },
+    {
+        "name": "I2E Spanish-English Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-e2i-2.4.2.tar.bz2",
+        "size": "GPL, 250K, 17822 words"
+    },
+    {
+        "name": "Czech-Russian slovnik Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-cz_ru_slovnik-2.4.2.tar.bz2",
+        "size": "GPL, 3M, 169355 words"
+    },
+    {
+        "name": "Russian-Czech slovnik Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-ru_cz_slovnik-2.4.2.tar.bz2",
+        "size": "GPL, 2.7M, 169507 words"
+    },
+    {
+        "name": "Czech foreign words dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-czech-2.4.2.tar.bz2",
+        "size": "Free to use, 732K, 21620 words"
+    },
+    {
+        "name": "English-Czech dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-english-czech-2.4.2.tar.bz2",
+        "size": "GPL, 2M, 84775 words"
+    },
+    {
+        "name": "Czech-English dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-czech-english-2.4.2.tar.bz2",
+        "size": "GPL, 2M, 85563 words"
+    },
+    {
+        "name": "Acronyms",
+        "url": "http://download.huzheng.org/misc/stardict-acronyms-2.4.2.tar.bz2",
+        "size": "GPL, 5K, 253 words"
+    },
+    {
+        "name": "latin-english",
+        "url": "http://download.huzheng.org/misc/stardict-latin-english-2.4.2.tar.bz2",
+        "size": "GPL, 1.2M, 39225 words"
+    },
+    {
+        "name": "English-Hungarian",
+        "url": "http://download.huzheng.org/misc/stardict-jdict-EngHun-2.4.2.tar.bz2",
+        "size": "GPL, 1.9M, 185118 words"
+    },
+    {
+        "name": "English-Hungarian expression",
+        "url": "http://download.huzheng.org/misc/stardict-jdict-EngHunExpressions-2.4.2.tar.bz2",
+        "size": "GPL, 646K, 30297 words"
+    },
+    {
+        "name": "English-Serbian",
+        "url": "http://download.huzheng.org/misc/stardict-jdict-EngSerbian-2.4.2.tar.bz2",
+        "size": "GPL, 691K, 74187 words"
+    },
+    {
+        "name": "English-Spanish",
+        "url": "http://download.huzheng.org/misc/stardict-jdict-EngSpanish-2.4.2.tar.bz2",
+        "size": "GPL, 283K, 24218 words"
+    },
+    {
+        "name": "French-Hungarian",
+        "url": "http://download.huzheng.org/misc/stardict-jdict-FrenchHung-2.4.2.tar.bz2",
+        "size": "GPL, 99K, 7882 words"
+    },
+    {
+        "name": "German-English",
+        "url": "http://download.huzheng.org/misc/stardict-jdict-GerEnglish-2.4.2.tar.bz2",
+        "size": "GPL, 1.5M 124128 words"
+    },
+    {
+        "name": "German-Hungarian",
+        "url": "http://download.huzheng.org/misc/stardict-jdict-GerHung-2.4.2.tar.bz2",
+        "size": "GPL, 431K, 37888 words"
+    },
+    {
+        "name": "Interlinuga-English",
+        "url": "http://download.huzheng.org/misc/stardict-jdict-InterlEng-2.4.2.tar.bz2",
+        "size": "GPL, 782K, 26927 words"
+    },
+    {
+        "name": "Swedish-Interlingua",
+        "url": "http://download.huzheng.org/misc/stardict-jdict-SweInterling-2.4.2.tar.bz2",
+        "size": "GPL, 664K, 27809 words"
+    },
+    {
+        "name": "English-Greek",
+        "url": "http://download.huzheng.org/misc/stardict-wordtrans-en-gr-2.4.2.tar.bz2",
+        "size": "GPL, 229K, 13357 words"
+    },
+    {
+        "name": "Spanish - German wordlist",
+        "url": "http://download.huzheng.org/misc/stardict-wordtrans-es-de-2.4.2.tar.bz2",
+        "size": "GPL, 231K, 17211 words"
+    },
+    {
+        "name": "Spanish-Italian",
+        "url": "http://download.huzheng.org/misc/stardict-wordtrans-es-ita-2.4.2.tar.bz2",
+        "size": "GPL, 67K, 5677 words"
+    },
+    {
+        "name": "Greek-English",
+        "url": "http://download.huzheng.org/misc/stardict-wordtrans-gr-en-2.4.2.tar.bz2",
+        "size": "GPL, 196K, 13976 words"
+    },
+    {
+        "name": "English-Spanish",
+        "url": "http://download.huzheng.org/misc/stardict-wordtrans-i2e-2.4.2.tar.bz2",
+        "size": "GPL, 288K, 24574 words"
+    },
+    {
+        "name": "Italian-Hungarian",
+        "url": "http://download.huzheng.org/misc/stardict-wordtrans-it-hu-2.4.2.tar.bz2",
+        "size": "GPL, 427K, 34368 words"
+    },
+    {
+        "name": "Russian-English",
+        "url": "http://download.huzheng.org/misc/stardict-wordtrans-rus-eng-2.4.2.tar.bz2",
+        "size": "GPL, 320K, 22692 words"
+    },
+    {
+        "name": "English-French",
+        "url": "http://download.huzheng.org/misc/stardict-idp-eng-fr-2.4.2.tar.bz2",
+        "size": "GPL, 42K, 3246 words"
+    },
+    {
+        "name": "English-German",
+        "url": "http://download.huzheng.org/misc/stardict-idp-eng-ger-2.4.2.tar.bz2",
+        "size": "GPL, 115K, 9731 words"
+    },
+    {
+        "name": "English-Italian",
+        "url": "http://download.huzheng.org/misc/stardict-idp-eng-ita-2.4.2.tar.bz2",
+        "size": "GPL, 65K, 5150 words"
+    },
+    {
+        "name": "English-Latin",
+        "url": "http://download.huzheng.org/misc/stardict-idp-eng-lat-2.4.2.tar.bz2",
+        "size": "GPL, 135K, 8328 words"
+    },
+    {
+        "name": "English-Portuguese",
+        "url": "http://download.huzheng.org/misc/stardict-idp-eng-por-2.4.2.tar.bz2",
+        "size": "GPL, 18K, 1366 words"
+    },
+    {
+        "name": "English-Spanish",
+        "url": "http://download.huzheng.org/misc/stardict-idp-eng-spa-2.4.2.tar.bz2",
+        "size": "GPL, 91K, 7476 words"
+    },
+    {
+        "name": "Bulgaria-English",
+        "url": "http://download.huzheng.org/misc/stardict-bgoffice_bul-eng-2.4.2.tar.bz2",
+        "size": "GPL, 2.5M, 43946 words"
+    },
+    {
+        "name": "English-Bulgaria",
+        "url": "http://download.huzheng.org/misc/stardict-bgoffice_eng-bul-2.4.2.tar.bz2",
+        "size": "GPL, 3.2M, 46789 words"
+    },
+    {
+        "name": "myspell_Polish_grammar",
+        "url": "http://download.huzheng.org/misc/stardict-myspell_Polish_grammar-2.4.2.tar.bz2",
+        "size": "GPL, 24M, 2752724 words"
+    },
+    {
+        "name": "myspell_Russian_grammar",
+        "url": "http://download.huzheng.org/misc/stardict-myspell_Russian_grammar-2.4.2.tar.bz2",
+        "size": "GPL, 13M, 1346644 words"
+    },
+    {
+        "name": "myspell_Spanish_grammar",
+        "url": "http://download.huzheng.org/misc/stardict-myspell_Spanish_grammar-2.4.2.tar.bz2",
+        "size": "GPL, 5M, 652152 words"
+    },
+    {
+        "name": "myspell_Ukrainian_grammar",
+        "url": "http://download.huzheng.org/misc/stardict-myspell_Ukrainian_grammar-2.4.2.tar.bz2",
+        "size": "GPL, 17M, 1723985 words"
+    },
+    {
+        "name": "welsh-english",
+        "url": "http://download.huzheng.org/misc/stardict-welsh_english-2.4.2.tar.bz2",
+        "size": "GPL, 509K, 26487 words"
+    },
+    {
+        "name": "Welsh-English",
+        "url": "http://download.huzheng.org/misc/stardict-eurfa_cym-2.4.2.tar.bz2",
+        "size": "GPL, 195K, 12030 words"
+    },
+    {
+        "name": "English-Welsh",
+        "url": "http://download.huzheng.org/misc/stardict-eurfa_eng-2.4.2.tar.bz2",
+        "size": "GPL, 192K, 10062 words"
+    },
+    {
+        "name": "Dictionnaire des id\u00c3\u00a9es re\u00c3\u00a7ues",
+        "url": "http://download.huzheng.org/misc/stardict-eurfa_eng-2.4.2.tar.bz2",
+        "size": "GPL, 46K, 960 words"
+    },
+    {
+        "name": "English-Croatian",
+        "url": "http://download.huzheng.org/misc/stardict-English-Croatian-2.4.2.tar.bz2",
+        "size": "GPL, 1.7M, 92931 words"
+    },
+    {
+        "name": "AbuBakar_EngUrdu_Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-AbuBakar_EnglUrduDictionary-2.4.2.tar.bz2",
+        "size": "GPL, 4.6M, 119860 words"
+    },
+    {
+        "name": "Altangerel English-Mongolian",
+        "url": "http://download.huzheng.org/misc/stardict-Altangerel_English_Mongolian-2.4.2.tar.bz2",
+        "size": "GPL, 1.2M, 28656 words"
+    },
+    {
+        "name": "CIA World Factbook 2009",
+        "url": "http://download.huzheng.org/misc/stardict-CIA09-2.4.2.tar.bz2",
+        "size": "GPL, 1.6M, 270 words",
+        "origin": "C\u00f4te d'Ivoire",
+        "destination": "C\u00f4te d'Ivoire"
+    },
+    {
+        "name": "Islandsko_cz_dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-is_cz_dictionary-2.4.2.tar.bz2",
+        "size": "GPL, 220K, 4906 words"
+    },
+    {
+        "name": "Crum's Coptic - English Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-Coptic-English_all_dialects-2.4.2.tar.bz2",
+        "size": "GPL, 1.3M, 25382 words"
+    },
+    {
+        "name": "Esperando Vietnamese Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-eovidata-2.4.2.tar.bz2",
+        "size": "GPL, 318K, 25382 words"
+    },
+    {
+        "name": "LongDo English-Thai Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-longdo_en_th-2.4.2.tar.bz2",
+        "size": "GPL, 83K, 17139 words"
+    },
+    {
+        "name": "LongDo Japanish-Thai Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-longdo_jp_th-2.4.2.tar.bz2",
+        "size": "GPL, 54K, 1783 words"
+    },
+    {
+        "name": "sk_en_legal dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-sk_en_legal-2.4.2.tar.bz2",
+        "size": "GPL, 301K, 16060 words"
+    },
+    {
+        "name": "Ant_dictionary. English-Italian dictionary by Antonio Bonifati.",
+        "url": "http://download.huzheng.org/misc/stardict-ant_dictionary-2.4.2.tar.bz2",
+        "size": "GPL, 385K, 19009 words"
+    },
+    {
+        "name": "php function dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-php-2.4.2.tar.bz2",
+        "size": "GPL, 1.1M, 5622 words"
+    },
+    {
+        "name": "Tibskrit Philology",
+        "url": "http://download.huzheng.org/misc/stardict-tibskrit.ddbc.tar.bz2",
+        "size": "Free to use, 2.4M"
+    },
+    {
+        "name": "Pali-Chinese dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-ddbc.pali-chin.tar.bz2",
+        "size": "Free to use, 391K"
+    },
+    {
+        "name": "\u00e6\u00ad\u00a3\u00e6\u00b3\u0095\u00e8\u008f\u00af\u00e7\u00b6\u0093\u00e8\u00a9\u009e\u00e5\u0085\u00b8 (A Glossary of Dharmarak\u00e1\u00b9\u00a3a's Translation of the Lotus Sutra)",
+        "url": "http://download.huzheng.org/misc/stardict-ddbc.dharmaraksa.tar.bz2",
+        "size": "Free to use, 716K"
+    },
+    {
+        "name": "Mah\u00c4\u0081vyutpatti (\u00e7\u00bf\u00bb\u00e8\u00ad\u00af\u00e5\u0090\u008d\u00e7\u00be\u00a9\u00e5\u00a4\u00a7\u00e9\u009b\u0086)",
+        "url": "http://download.huzheng.org/misc/stardict-mahavyutpatti.ddbc.tar.bz2",
+        "size": "Free to use, 694K"
+    },
+    {
+        "name": "Manchu-Mongolian-Sanskrit-Chinese glossary (\u00e4\u00ba\u0094\u00e8\u00ad\u00af\u00e5\u0090\u0088\u00e7\u0092\u00a7\u00e9\u009b\u0086\u00e8\u00a6\u0081)",
+        "url": "http://download.huzheng.org/misc/stardict-pentaglot.ddbc.tar.bz2",
+        "size": "Free to use, 54K"
+    },
+    {
+        "name": "Soothill-Hodous dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-ddbc.soothill-hodous.tar.bz2",
+        "size": "Free to use, 1.1M"
+    },
+    {
+        "name": "Ding Fubao dictionary (\u00e4\u00b8\u0081\u00e7\u00a6\u008f\u00e4\u00bf\u009d\u00e4\u00bd\u009b\u00e5\u00ad\u00b8\u00e5\u00a4\u00a7\u00e8\u00be\u00ad\u00e5\u0085\u00b8)",
+        "url": "http://download.huzheng.org/misc/stardict-ddbc.dingfubao.tar.bz2",
+        "size": "Free to use, 4.2M"
+    },
+    {
+        "name": "Nanshan Vinaya Dictionary (\u00e5\u008d\u0097\u00e5\u00b1\u00b1\u00e5\u00be\u008b\u00e5\u00ad\u00b8\u00e8\u00be\u00ad\u00e5\u0085\u00b8)",
+        "url": "http://download.huzheng.org/misc/stardict-ddbc.nanshanlu.tar.bz2",
+        "size": "Free to use, 1.5M"
+    },
+    {
+        "name": "De_Nld",
+        "url": "http://download.huzheng.org/misc/stardict-De_Nld-2.4.2.tar.bz2",
+        "size": "Free to use, 10.7M"
+    },
+    {
+        "name": "Eng_Nld",
+        "url": "http://download.huzheng.org/misc/stardict-Eng_Nld-2.4.2.tar.bz2",
+        "size": "Free to use, 10.8M"
+    },
+    {
+        "name": "Fr_Nld",
+        "url": "http://download.huzheng.org/misc/stardict-Fr_Nld-2.4.2.tar.bz2",
+        "size": "Free to use, 8.8M"
+    },
+    {
+        "name": "Nld_De",
+        "url": "http://download.huzheng.org/misc/stardict-Nld_De-2.4.2.tar.bz2",
+        "size": "Free to use, 9.7M"
+    },
+    {
+        "name": "Nld_Eng",
+        "url": "http://download.huzheng.org/misc/stardict-Nld_Eng-2.4.2.tar.bz2",
+        "size": "Free to use, 10.4M"
+    },
+    {
+        "name": "Nld_Fr",
+        "url": "http://download.huzheng.org/misc/stardict-Nld_Fr-2.4.2.tar.bz2",
+        "size": "Free to use, 10.2M"
+    },
+    {
+        "name": "Nld_Nld",
+        "url": "http://download.huzheng.org/misc/stardict-Nld_Nld-2.4.2.tar.bz2",
+        "size": "Free to use, 9.8M"
+    },
+    {
+        "name": "Advanced English-Spanish VOX",
+        "url": "http://download.huzheng.org/misc/stardict-en-es_Advanced-VOX-2.4.2.tar.bz2",
+        "size": "Free to use, 3.6M"
+    },
+    {
+        "name": "Advanced Espa\u00c3\u00b1ol-Ingl\u00c3\u00a9s VOX",
+        "url": "http://download.huzheng.org/misc/stardict-es-en_Advanced-VOX-2.4.2.tar.bz2",
+        "size": "Free to use, 4.1M"
+    },
+    {
+        "name": "Harrap's English-Spanish Dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-Harrap_s_dictionary_en-es-2.4.2.tar.bz2",
+        "size": "Free to use, 7M"
+    },
+    {
+        "name": "h8-glossary english to persian",
+        "url": "http://download.huzheng.org/misc/stardict-h8-glossary_english_to_persian-2.4.2.tar.bz2",
+        "size": "Free to use, 4M"
+    },
+    {
+        "name": "Cihar English-Czech dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-english-czech-20170301-2.4.2.tar.bz2",
+        "size": "Free to use, 2M"
+    },
+    {
+        "name": "Cihar English-Czech dictionary without accents",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-english-czech-20170301-ascii-2.4.2.tar.bz2",
+        "size": "Free to use, 1.9M"
+    },
+    {
+        "name": "Cihar English-Czech dictionary without accents and tags",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-english-czech-20170301-ascii-notags-2.4.2.tar.bz2",
+        "size": "Free to use, 1.9M"
+    },
+    {
+        "name": "Cihar English-Czech dictionary without tags",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-english-czech-20170301-notags-2.4.2.tar.bz2",
+        "size": "Free to use, 1.9M"
+    },
+    {
+        "name": "Cihar Czech-English dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-czech-english-20170301-2.4.2.tar.bz2",
+        "size": "Free to use, 2M"
+    },
+    {
+        "name": "Cihar Czech-English dictionary without accents",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-czech-english-20170301-ascii-2.4.2.tar.bz2",
+        "size": "Free to use, 1.9M"
+    },
+    {
+        "name": "Cihar Czech-English dictionary without accents and tags",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-czech-english-20170301-ascii-notags-2.4.2.tar.bz2",
+        "size": "Free to use, 1.8M"
+    },
+    {
+        "name": "Cihar Czech-English dictionary without tags",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-czech-english-20170301-notags-2.4.2.tar.bz2",
+        "size": "Free to use, 1.89M"
+    },
+    {
+        "name": "Cihar German-Czech dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-german-czech-20170101-2.4.2.tar.bz2",
+        "size": "Free to use, 27K"
+    },
+    {
+        "name": "Cihar German-Czech dictionary without accents",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-german-czech-20170101-ascii-2.4.2.tar.bz2",
+        "size": "Free to use, 26K"
+    },
+    {
+        "name": "Cihar German-Czech dictionary without accents and tags",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-german-czech-20170101-ascii-notags-2.4.2.tar.bz2",
+        "size": "Free to use, 25K"
+    },
+    {
+        "name": "Cihar German-Czech dictionary without tags",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-german-czech-20170101-notags-2.4.2.tar.bz2",
+        "size": "Free to use, 26K"
+    },
+    {
+        "name": "Cihar Czech-German dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-czech-german-20170101-2.4.2.tar.bz2",
+        "size": "Free to use, 27K"
+    },
+    {
+        "name": "Cihar Czech-German dictionary without accents",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-czech-german-20170101-ascii-2.4.2.tar.bz2",
+        "size": "Free to use, 25K"
+    },
+    {
+        "name": "Cihar Czech-German dictionary without accents and tags",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-czech-german-20170101-ascii-notags-2.4.2.tar.bz2",
+        "size": "Free to use, 25K"
+    },
+    {
+        "name": "Cihar Czech-German dictionary without tags",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-czech-german-20170101-notags-2.4.2.tar.bz2",
+        "size": "Free to use, 25K"
+    },
+    {
+        "name": "Cihar Czech foreign words dictionary",
+        "url": "http://download.huzheng.org/misc/stardict-cihar-czech-20140101-2.4.2.tar.bz2",
+        "size": "Free to use, 699K"
+    },
+    {
+        "name": "English-Spanish Babylon",
+        "url": "http://download.huzheng.org/misc2/stardict-en-es_Babylon-2.4.2.tar.bz2",
+        "size": "GPL 6.3M 161858 words"
+    },
+    {
+        "name": "Babylon Spanish-English",
+        "url": "http://download.huzheng.org/misc2/stardict-es-en_Babylon-2.4.2.tar.bz2",
+        "size": "GPL 6M 84060 words"
+    },
+    {
+        "name": "Van Dale Handwoordenboek Engels-Nederlands (En-Nl)",
+        "url": "http://download.huzheng.org/misc2/stardict-en-nl_vandale_an_1_0d-2.4.2.tar.bz2",
+        "size": "GPL, 4.6M, 73568 words"
+    },
+    {
+        "name": "Van Dale Handwoordenboek Nederlands-Engels (Nl-En)",
+        "url": "http://download.huzheng.org/misc2/stardict-nl-en_vandale_an_1_1d-2.4.2.tar.bz2",
+        "size": "GPL, 6.4M, 105319 words"
+    },
+    {
+        "name": "LAROUSSE",
+        "url": "http://download.huzheng.org/misc2/stardict-es-es_Larousse-2.4.2.tar.bz2",
+        "size": "GPL, 8.3M, 85691 words",
+        "origin": "United States",
+        "destination": "United States"
+    },
+    {
+        "name": "DUE de Maria Moliner (Es-Es)",
+        "url": "http://download.huzheng.org/misc2/stardict-es-es_Moliner-2.4.2.tar.bz2",
+        "size": "GPL, 9.8M, 81554 words"
+    },
+    {
+        "name": "dict-michaelis-pt-en-es (4 dictionaries!)",
+        "url": "http://download.huzheng.org/misc2/stardict-dict-michaelis-pt-en-es-2.4.2.tar.bz2",
+        "size": "GPL, 29M"
+    },
+    {
+        "name": "Folkets lexikon En-Sv, \u00c2\u00a9folkets-lexikon.csc.kth.se",
+        "url": "http://download.huzheng.org/misc2/stardict-folkets_en-sv-2.4.2.tar.bz2",
+        "size": "GPL, 2.5M, 53618 words"
+    },
+    {
+        "name": "Folkets lexikon Sv-En, \u00c2\u00a9folkets-lexikon.csc.kth.se",
+        "url": "http://download.huzheng.org/misc2/stardict-folkets_sv-en-2.4.2.tar.bz2",
+        "size": "GPL, 2.7M, 36513 words"
+    },
+    {
+        "name": "DiccionarioRAE-es-es",
+        "url": "http://download.huzheng.org/misc2/stardict-DiccionarioRAE-es-es-2.4.2.tar.bz2",
+        "size": "GPL, 7.2M, 87405 words",
+        "origin": "United Arab Emirates",
+        "destination": "United Arab Emirates"
+    },
+    {
+        "name": "DicAberto",
+        "url": "http://download.huzheng.org/misc2/stardict-DicAberto-2.4.2.tar.bz2",
+        "size": "GPL, 5.9M, 125275 words"
+    },
+    {
+        "name": "Gran Diccionario LAROUSSE (ES-ES)",
+        "url": "http://download.huzheng.org/misc2/stardict-es-es_gdle_larousse-2.4.2.tar.bz2",
+        "size": "GPL, 8.3M, 85691 words",
+        "origin": "United States",
+        "destination": "United States"
+    },
+    {
+        "name": "S\u00c5\u0082ownik Ko\u00c5\u009bciuszkowski EN-PL and PL-EN",
+        "url": "http://download.huzheng.org/misc2/stardict-kosciuszko_pl-en_en-pl-2.4.2.tar.bz2",
+        "size": "GPL, 7.1M",
+        "origin": "Poland",
+        "destination": "Poland"
+    },
+    {
+        "name": "Neolingus_DE-PL_PL-DE",
+        "url": "http://download.huzheng.org/misc2/stardict-Neolingus_DE-PL_PL-DE-2.4.2.tar.bz2",
+        "size": "GPL, 2.7M",
+        "origin": "Poland",
+        "destination": "Poland"
+    },
+    {
+        "name": "PWN-Oxford EN-PL PL-EN",
+        "url": "http://download.huzheng.org/misc2/stardict-oxf_pl-en_en-pl-2.4.2.tar.bz2",
+        "size": "GPL, 10M",
+        "origin": "Poland",
+        "destination": "Poland"
+    },
+    {
+        "name": "ES-PL PL-ES",
+        "url": "http://download.huzheng.org/misc2/stardict-ES-PL_PL-ES-2.4.2.tar.bz2",
+        "size": "GPL, 7.2M",
+        "origin": "Poland",
+        "destination": "Poland"
+    },
+    {
+        "name": "malayalamdictionary",
+        "url": "http://download.huzheng.org/misc2/stardict-malayalamdictionary-2.4.2.tar.bz2",
+        "size": "GPL, 2.2M"
+    },
+    {
+        "name": "wikt-en-en-2013-12-10",
+        "url": "http://download.huzheng.org/misc2/stardict-wikt-en-en-2013-12-10-2.4.2.tar.bz2",
+        "size": "GPL, 17.5M"
+    },
+    {
+        "name": "oxford-gb_phonetic-0.5",
+        "url": "http://download.huzheng.org/misc2/stardict-oxford-gb_phonetic-0.5-2.4.2.tar.bz2",
+        "size": "GPL, 389K"
+    },
+    {
+        "name": "Arianpur-OpenDictionary",
+        "url": "http://download.huzheng.org/misc2/stardict-OpenDictionaryAkaQueerDick-2010-09-28-2.4.2.tar.bz2",
+        "size": "GPL, 8.9M"
+    },
+    {
+        "name": "Arianpur-OpenDictionary-rich",
+        "url": "http://download.huzheng.org/misc2/stardict-OpenDictionaryAkaQueerDick-2010-09-28-rich-2.4.2.tar.bz2",
+        "size": "GPL, 9.2M"
+    },
+    {
+        "name": "DRAE (Es-Es)",
+        "url": "http://download.huzheng.org/misc2/stardict-spa-spa_drae_es_es-2.4.2.tar.bz2",
+        "size": "GPL, 57M",
+        "origin": "United Arab Emirates",
+        "destination": "United Arab Emirates"
+    },
+    {
+        "name": "Legal Thesaurus",
+        "url": "http://download.huzheng.org/misc2/stardict-LegalThesaurus-2.4.2.tar.bz2",
+        "size": "GPL, 3.7M"
+    },
+    {
+        "name": "gkamus-en English-Indonesia",
+        "url": "http://download.huzheng.org/misc2/stardict-gkamus-en-2.4.2.tar.bz2",
+        "size": "GPL, 845K"
+    },
+    {
+        "name": "gkamus-id Indonesia-English",
+        "url": "http://download.huzheng.org/misc2/stardict-gkamus-id-2.4.2.tar.bz2",
+        "size": "GPL, 698K"
+    },
+    {
+        "name": "DEX09 (2009)",
+        "url": "http://download.huzheng.org/misc3/stardict-dex09-2009-2.4.2.tar.bz2",
+        "size": "GPL 18M",
+        "origin": "Germany",
+        "destination": "Germany"
+    },
+    {
+        "name": "MDN '08 (2008)",
+        "url": "http://download.huzheng.org/misc3/stardict-mdn08-2008-2.4.2.tar.bz2",
+        "size": "GPL 29.5K",
+        "origin": "Moldova, Republic of",
+        "destination": "Moldova, Republic of"
+    },
+    {
+        "name": "MDN '00 (2000)",
+        "url": "http://download.huzheng.org/misc3/stardict-mdn00-2000-2.4.2.tar.bz2",
+        "size": "GPL 8.2M",
+        "origin": "Moldova, Republic of",
+        "destination": "Moldova, Republic of"
+    },
+    {
+        "name": "\u00c8\u0098\u00c4\u0083ineanu, ed. VI (1929)",
+        "url": "http://download.huzheng.org/misc3/stardict-dulr6-1929-2.4.2.tar.bz2",
+        "size": "GPL 6M",
+        "origin": "Virgin Islands, U.S.",
+        "destination": "Virgin Islands, U.S."
+    },
+    {
+        "name": "DLRLC - 1955-1957",
+        "url": "http://download.huzheng.org/misc3/stardict-dlrlc-1955-1957-2.4.2.tar.bz2",
+        "size": "GPL 41M",
+        "origin": "Saint Lucia",
+        "destination": "Saint Lucia"
+    },
+    {
+        "name": "English-Turkish",
+        "url": "http://download.huzheng.org/misc3/stardict-english-turkish-2.4.2.tar.bz2",
+        "size": "GPL 586K"
+    },
+    {
+        "name": "Synoyms Azerbaijani-Turkish",
+        "url": "http://download.huzheng.org/misc3/stardict-Synoyms-Azerbaijani-Turkish-2.4.2.tar.bz2",
+        "size": "GPL 404K"
+    },
+    {
+        "name": "Azerbaijani-Explanatory",
+        "url": "http://download.huzheng.org/misc3/stardict-Azerbaijani-Explanatory-2.4.2.tar.bz2",
+        "size": "GPL 5M"
+    },
+    {
+        "name": "Kyrgyz-Turkish",
+        "url": "http://download.huzheng.org/misc3/stardict-Kyrgyz-Turkish-2.4.2.tar.bz2",
+        "size": "GPL 954K"
+    },
+    {
+        "name": "Uzbek-English",
+        "url": "http://download.huzheng.org/misc3/stardict-Uzbek-English-2.4.2.tar.bz2",
+        "size": "GPL 824K"
+    },
+    {
+        "name": "Turkish-Tatar",
+        "url": "http://download.huzheng.org/misc3/stardict-Turkish-Tatar-2.4.2.tar.bz2",
+        "size": "GPL 493K"
+    },
+    {
+        "name": "Turkmen-Explanatory",
+        "url": "http://download.huzheng.org/misc3/stardict-Turkmen-Explanatory-2.4.2.tar.bz2",
+        "size": "GPL 2.3M"
+    },
+    {
+        "name": "Uyghur-Turkish",
+        "url": "http://download.huzheng.org/misc3/stardict-Uyghur-Turkish-2.4.2.tar.bz2",
+        "size": "GPL 573K"
+    },
+    {
+        "name": "Arnaga-tusken",
+        "url": "http://download.huzheng.org/kenere.com/stardict-kenere_Arnaga-tusken-2.4.2.tar.bz2",
+        "size": "GPL, 24K, 672 words"
+    },
+    {
+        "name": "Gazetten",
+        "url": "http://download.huzheng.org/kenere.com/stardict-kenere_Gazetten-2.4.2.tar.bz2",
+        "size": "GPL, 53K, 1909 words"
+    },
+    {
+        "name": "J-A-T-T",
+        "url": "http://download.huzheng.org/kenere.com/stardict-kenere_J-A-T-T-2.4.2.tar.bz2",
+        "size": "GPL, 100K, 3469 words"
+    },
+    {
+        "name": "sozdik",
+        "url": "http://download.huzheng.org/kenere.com/stardict-kenere_sozdik-2.4.2.tar.bz2",
+        "size": "GPL, 69M, 104766 words"
+    },
+    {
+        "name": "sozdik2015.6",
+        "url": "http://download.huzheng.org/kenere.com/stardict-kenere_sozdik2015.6-2.4.2.tar.bz2",
+        "size": "GPL, 7.6M, 104197 words"
+    },
+    {
+        "name": "\u00e4\u00b8\u0089\u00e5\u008f\u00b2 ux-taryh",
+        "url": "http://download.huzheng.org/kenere.com/stardict-kenere_ux-taryh-2.4.2.tar.bz2",
+        "size": "GPL, 23K, 1540 words"
+    },
+    {
+        "name": "Zangdar",
+        "url": "http://download.huzheng.org/kenere.com/stardict-kenere_Zangdar-2.4.2.tar.bz2",
+        "size": "GPL, 612K, 65 words"
+    },
+    {
+        "name": "\u00e6\u00b1\u0089\u00e5\u0093\u0088\u00e5\u00a4\u00a7\u00e8\u00af\u008d\u00e5\u0085\u00b8",
+        "url": "http://download.huzheng.org/kenere.com/stardict-kenere_HanHaDaCiDian-2.4.2.tar.bz2",
+        "size": "GPL, 3.7M, 100692 words"
+    },
+    {
+        "name": "\u00e5\u0088\u0091\u00e4\u00ba\u008b\u00e8\u00af\u0089\u00e8\u00ae\u00bc\u00e6\u00b3\u0095",
+        "url": "http://download.huzheng.org/kenere.com/stardict-kenere_XingShiSuSongFa-2.4.2.tar.bz2",
+        "size": "GPL, 18K, 2 words"
+    },
+    {
+        "name": "AHD Indo-European and Semitic Roots Supplement (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-AHD_Indo-European_and_Semitic_Roots_Supplement-2.4.2.tar.bz2",
+        "size": "1M"
+    },
+    {
+        "name": "American Heritage Dictionary 4th Ed. (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-American_Heritage_Dictionary_4th_Ed-2.4.2.tar.bz2",
+        "size": "58M"
+    },
+    {
+        "name": "American_Idioms 2nd Ed",
+        "url": "http://download.huzheng.org/bigdict/stardict-American_Idioms_2nd_Ed-2.4.2.tar.bz2",
+        "size": "2.5M"
+    },
+    {
+        "name": "An Asperger Dictionary of Everyday Expressions",
+        "url": "http://download.huzheng.org/bigdict/stardict-An_Asperger_Dictionary_of_Everyday_Expressions-2.4.2.tar.bz2",
+        "size": "405K"
+    },
+    {
+        "name": "Cambridge Advanced Learners Dictionary 3th Ed. (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Cambridge_Advanced_Learners_Dictionary_3th_Ed-2.4.2.tar.bz2",
+        "size": "58.6M"
+    },
+    {
+        "name": "Cambridge Dictionary of American Idioms (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Cambridge_Dictionary_of_American_Idioms-2.4.2.tar.bz2",
+        "size": "1.5M"
+    },
+    {
+        "name": "Chambers Dictionary 11th Ed. (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Chambers_Dictionary_11th_Ed-2.4.2.tar.bz2",
+        "size": "13.5M"
+    },
+    {
+        "name": "Collins Thesaurus (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Collins_Thesaurus-2.4.2.tar.bz2",
+        "size": "785K"
+    },
+    {
+        "name": "Concise Oxford English Dictionary (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Concise_Oxford_English_Dictionary-2.4.2.tar.bz2",
+        "size": "6.8M"
+    },
+    {
+        "name": "Concise Oxford Thesaurus 2nd Ed. (Eng-Eng)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Concise_Oxford_Thesaurus_2nd_Ed-2.4.2.tar.bz2",
+        "size": "2.8M"
+    },
+    {
+        "name": "English Dialects 3.0 (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-English_Dialects_3-2.4.2.tar.bz2",
+        "size": "1M"
+    },
+    {
+        "name": "Longman Dictionary of Common Errors (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Longman_Dictionar_of_Common_Errors-2.4.2.tar.bz2",
+        "size": "414K"
+    },
+    {
+        "name": "Longman Dictionary of Contemporary English 5th Ed. (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Longman_Dictionary_of_Contemporary_English_5th_Ed-2.4.2.tar.bz2",
+        "size": "30.4M"
+    },
+    {
+        "name": "Longman Dictionary of Contemporary English Extras 5th Ed. (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Longman_Dictionary_of_Contemporary_English_Extras_5th_Ed-2.4.2.tar.bz2",
+        "size": "47.9M"
+    },
+    {
+        "name": "Longman Language Activator 2nd Ed. (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Longman_Language_Activator_2nd_Ed-2.4.2.tar.bz2",
+        "size": "5.6M"
+    },
+    {
+        "name": "Longman Pronunciation Dictionary 3rd Ed. (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Longman_Pronunciation_Dictionary_3rd_Ed-2.4.2.tar.bz2",
+        "size": "9.4M"
+    },
+    {
+        "name": "Macmillan English Dictionary (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Macmillan_English_Dictionary-2.4.2.tar.bz2",
+        "size": "62M"
+    },
+    {
+        "name": "Macmillan English Thesaurus (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Macmillan_English_Thesaurus-2.4.2.tar.bz2",
+        "size": "3.7M"
+    },
+    {
+        "name": "Merriam-Webster's Advanced Learner's Dictionary (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Merriam-Webster_s_Advanced_Learner_s_Dictionary-2.4.2.tar.bz2",
+        "size": "9.2M"
+    },
+    {
+        "name": "Merriam-Webster's Collegiate 11th Ed. (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Merriam-Webster_s_Collegiate_11th_Ed-2.4.2.tar.bz2",
+        "size": "36.5M"
+    },
+    {
+        "name": "Merriam-Webster's Collegiate Thesaurus (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Merriam-Webster_s_Collegiate_Thesaurus-2.4.2.tar.bz2",
+        "size": "2.2M"
+    },
+    {
+        "name": "Oxford Advanced Learner's Dictionary 8th Ed.",
+        "url": "http://download.huzheng.org/bigdict/stardict-Oxford_Advanced_Learner_s_Dictionary-2.4.2.tar.bz2",
+        "size": "131M"
+    },
+    {
+        "name": "Oxford Collocations Dictionary 2nd Ed. (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Oxford_Collocations_Dictionary_2nd_Ed-2.4.2.tar.bz2",
+        "size": "5M"
+    },
+    {
+        "name": "Oxford English Dictionary 2nd Ed. P1",
+        "url": "http://download.huzheng.org/bigdict/stardict-Oxford_English_Dictionary_2nd_Ed._P1-2.4.2.tar.bz2",
+        "size": "99M"
+    },
+    {
+        "name": "Oxford English Dictionary 2nd Ed. P2",
+        "url": "http://download.huzheng.org/bigdict/stardict-Oxford_English_Dictionary_2nd_Ed._P2-2.4.2.tar.bz2",
+        "size": "121M"
+    },
+    {
+        "name": "Oxford Guide to British and American Culture (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Oxford_Guide_to_British_and_American_Culture-2.4.2.tar.bz2",
+        "size": "18.9M"
+    },
+    {
+        "name": "Random House Webster's Unabridged Dictionary (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Random_House_Webster_s_Unabridged_Dictionary-2.4.2.tar.bz2",
+        "size": "17.9M"
+    },
+    {
+        "name": "Roget's II The New Thesaurus 3th Ed. (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Roget_s_II_The_New_Thesaurus_3th_Ed-2.4.2.tar.bz2",
+        "size": "2M"
+    },
+    {
+        "name": "Soule's Dictionary of English Synonyms (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Soule_s_Dictionary_of_English_Synonyms-2.4.2.tar.bz2",
+        "size": "1.5M"
+    },
+    {
+        "name": "The BBI Combinatory Dictionary of English (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-The_BBI_Combinatory_Dictionary_of_English-2.4.2.tar.bz2",
+        "size": "882K",
+        "origin": "Barbados",
+        "destination": "Barbados"
+    },
+    {
+        "name": "The Chambers Thesaurus (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-The_Chambers_Thesaurus-2.4.2.tar.bz2",
+        "size": "2.8M"
+    },
+    {
+        "name": "The Idiom Connection (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-The_Idiom_Connection-2.4.2.tar.bz2",
+        "size": "679K"
+    },
+    {
+        "name": "Urban Dictionary P1 (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Urban_Dictionary_P1-2.4.2.tar.bz2",
+        "size": "118M"
+    },
+    {
+        "name": "Urban Dictionary P2 (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Urban_Dictionary_P2-2.4.2.tar.bz2",
+        "size": "119M"
+    },
+    {
+        "name": "Webster's Third New International Dictionary, Unabridged (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Webster_s_Unabridged_3-2.4.2.tar.bz2",
+        "size": "55M"
+    },
+    {
+        "name": "WordNet\u00c2\u00ae 3.0 (En-En)",
+        "url": "http://download.huzheng.org/bigdict/stardict-WordNet_3-2.4.2.tar.bz2",
+        "size": "21M"
+    },
+    {
+        "name": "Apresyan (En-Ru)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Apresyan_En-Ru-2.4.2.tar.bz2",
+        "size": "14.4M"
+    },
+    {
+        "name": "Obscene language (En-Ru)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Obscene_language_En-Ru-2.4.2.tar.bz2",
+        "size": "11K"
+    },
+    {
+        "name": "Ozhegov Shvedova (Ru-Ru)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Ozhegov_Shvedova-2.4.2.tar.bz2",
+        "size": "4.7M"
+    },
+    {
+        "name": "Ushakov's Dictionary (Ru-Ru)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Ushakov_s_Dictionary_Ru-Ru-2.4.2.tar.bz2",
+        "size": "9.4M"
+    },
+    {
+        "name": "Vasmer (Ru-Ru)",
+        "url": "http://download.huzheng.org/bigdict/stardict-Vasmer_Ru-Ru-2.4.2.tar.bz2",
+        "size": "3.5M"
+    },
+    {
+        "name": "gKamus English",
+        "url": "http://download.huzheng.org/special/stardict-treedict-gKamus-English-2.4.2.tar.bz2",
+        "size": "GPL, 15K"
+    },
+    {
+        "name": "infoBrowse-zh_CN",
+        "url": "http://download.huzheng.org/special/stardict-treedict-infoBrowse-zh_CN-2.4.2.tar.bz2",
+        "size": "GPL, 270K",
+        "origin": "China",
+        "destination": "China"
+    },
+    {
+        "name": "WordNet-3.0.0",
+        "url": "http://download.huzheng.org/special/stardict-wordnet-3.0.0.tar.bz2",
+        "size": "GPL, 6.5M"
+    },
+    {
+        "name": "QQWry.Dat",
+        "url": "http://download.huzheng.org/special/QQWry.Dat.bz2",
+        "size": "Free to use, 4M"
+    }
+]
