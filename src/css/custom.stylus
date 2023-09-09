@@ -1,0 +1,24 @@
+@import "https://cdn.datatables.net/1.13.6/css/jquery.dataTables.css"
+
+.hero h1
+  font-size: clamp(var(--sl-text-3xl),calc(0.25rem + 5vw),var(--sl-text-5xl))
+
+.site-title u,
+.hero u
+  text-decoration: none
+  color: inherit
+  transition: color 0.4s ease-in-out
+
+
+transition-step = 700ms
+.site-title.colored u:nth-child(1), .hero.colored u:nth-child(1)
+  color: #6eff6e
+.site-title.colored u:nth-child(2), .hero.colored u:nth-child(2)
+  color: #ffaf80
+  transition-delay: 1 * transition-step
+.site-title.colored u:nth-child(3), .hero.colored u:nth-child(4)
+  color: #fdfd8e
+  transition-delay: 2 * transition-step
+.site-title.colored u:nth-child(4), .hero.colored u:nth-child(5)
+  color: #c4ff9e
+  transition-delay: 3 * transition-step

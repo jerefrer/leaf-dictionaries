@@ -12,11 +12,29 @@ export default defineConfig({
       {
         title: 'LEAF Dictionaries',
         customCss: [
-          './src/tailwind.css',
+          './src/css/tailwind.css', './src/css/custom.stylus',
         ],
         social: {
           github: 'https://github.com/jerefrer/leaf-dictionaries'
         },
+        head: [
+          {
+            tag: 'script',
+            content: `window.addEventListener('load', () => {
+              var span = document.querySelector(".site-title span");
+              if (span && span.textContent) {
+                var parts = span.textContent.split(" ");
+                span.innerHTML = [
+                  parts[0].split("").map((char) => '<u>' + char + '</u>').join(''),
+                  parts.slice(1),
+                ].join(" ");
+              }
+              setTimeout(() => {
+                document.querySelectorAll(".site-title, .hero").forEach((element) => element.classList.add('colored'));
+              }, 100);
+            })`
+          },
+        ],
         sidebar: [
           {
             label: 'Environments',
@@ -36,9 +54,7 @@ export default defineConfig({
       }
     ),
     tailwind(
-      {
-        applyBaseStyles: false
-      }
+      {applyBaseStyles: false}
     )
   ]
 });

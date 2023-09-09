@@ -1,9 +1,0 @@
-@import "https://cdn.datatables.net/1.13.6/css/jquery.dataTables.css";
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.hero h1 {
-  font-size: clamp(var(--sl-text-3xl),calc(0.25rem + 5vw),var(--sl-text-5xl))
-}
