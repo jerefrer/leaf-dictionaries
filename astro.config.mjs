@@ -5,8 +5,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://jerefrer.github.io',
-  base: '/leaf-dictionaries',
+  site: 'https://jerefrer.github.io/leaf-dictionaries',
   integrations: [
     starlight(
       {
