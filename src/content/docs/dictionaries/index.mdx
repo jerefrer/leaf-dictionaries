@@ -1,24 +1,24 @@
 ---
-title: "Dictionaries"
+title: "Index"
 tableOfContents: false
 prev: false
 next: false
 ---
 
 import { LinkCard, CardGrid } from "@astrojs/starlight/components";
-import DictionariesTable from "@components/DictionariesTable.astro";
+import { dictionaries, languages } from "@src/dictionaries-and-languages.js"
+import NoteOfHowManyDictionariesAndLanguages from "@components/NoteOfHowManyDictionariesAndLanguages.svelte"
 
-{/*
-export const allLanguages = ["english", "french"];
-<CardGrid>
-  {allLanguages.map((language) => (
-    <LinkCard
-      class="capitalize"
-      title={language}
-      href={`/dictionaries/${language}`}
-    />
-  ))}
-</CardGrid>
-*/}
+<NoteOfHowManyDictionariesAndLanguages simple={true} />
 
-<DictionariesTable />
+<LinkCard
+  href="dictionaries/search"
+  title="Search"
+  description="Find what you need among all dictionaries."
+/>
+
+<LinkCard
+  href="dictionaries/packages"
+  title="Packages"
+  description="Browse packages of hand-picked dictionaries by language."
+/>

@@ -1,5 +1,6 @@
 ---
 title: Donate
+tableOfContents: false
 prev: false
 next: false
 ---

@@ -3,22 +3,64 @@
 .hero h1
   font-size: clamp(var(--sl-text-3xl),calc(0.25rem + 5vw),var(--sl-text-5xl))
 
+// .site-title u,
+// .hero u
+//   text-decoration: none
+//   color: inherit
+//   transition: color 0.4s ease-in-out
+//   text-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
+
+// transition-step = 700ms
+// .site-title.colored u:nth-child(1), .hero.colored u:nth-child(1)
+//   color: #6eff6e
+// .site-title.colored u:nth-child(2), .hero.colored u:nth-child(2)
+//   color: #ffaf80
+//   transition-delay: 1 * transition-step
+// .site-title.colored u:nth-child(3), .hero.colored u:nth-child(4)
+//   color: #fdfd8e
+//   transition-delay: 2 * transition-step
+// .site-title.colored u:nth-child(4), .hero.colored u:nth-child(5)
+//   color: #c4ff9e
+//   transition-delay: 3 * transition-step
+
 .site-title u,
-.hero u
+.hero h1 a
   text-decoration: none
   color: inherit
-  transition: color 0.4s ease-in-out
 
+.hero h1 a:hover
+  text-decoration: underline
 
-transition-step = 700ms
-.site-title.colored u:nth-child(1), .hero.colored u:nth-child(1)
-  color: #6eff6e
-.site-title.colored u:nth-child(2), .hero.colored u:nth-child(2)
-  color: #ffaf80
-  transition-delay: 1 * transition-step
-.site-title.colored u:nth-child(3), .hero.colored u:nth-child(4)
-  color: #fdfd8e
-  transition-delay: 2 * transition-step
-.site-title.colored u:nth-child(4), .hero.colored u:nth-child(5)
-  color: #c4ff9e
-  transition-delay: 3 * transition-step
+.site-title u:nth-child(1), .hero h1 a:nth-child(1)
+  color: #A3D9B1
+.site-title u:nth-child(2), .hero h1 a:nth-child(2)
+  color: #64B76D
+.site-title u:nth-child(3), .hero h1 a:nth-child(4)
+  color: #1EAC8D
+.site-title u:nth-child(4), .hero h1 a:nth-child(5)
+  color: #006400
+
+.hero
+  .action
+    transition: 0.2s ease-in-out
+    svg
+      transition: 0.2s ease-in-out
+    &:hover
+      filter: contrast(1.5)
+      svg
+        transform: scale(110%)
+
+.multiselect
+  padding 10px !important
+  ul.selected
+    li
+      background #1eac8d !important
+      color #EBFFFB !important
+      padding 3px 10px 5px !important
+  ul.options
+    border-radius: 4px !important
+
+html[data-theme="dark"]
+  .multiselect
+    ul.options
+      background var(--sl-color-bg-sidebar)

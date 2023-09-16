@@ -1,26 +1,23 @@
-import {defineConfig} from 'astro/config';
+import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-
 import tailwind from "@astrojs/tailwind";
+import vue from '@astrojs/vue';
+
+import svelte from "@astrojs/svelte";
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://jerefrer.github.io',
   base: '/leaf-dictionaries',
-  integrations: [
-    starlight(
-      {
-        title: 'LEAF Dictionaries',
-        customCss: [
-          './src/css/tailwind.css', './src/css/custom.stylus',
-        ],
-        social: {
-          github: 'https://github.com/jerefrer/leaf-dictionaries'
-        },
-        head: [
-          {
-            tag: 'script',
-            content: `window.addEventListener('load', () => {
+  integrations: [starlight({
+    title: 'LEAF Dictionaries',
+    customCss: ['./src/css/tailwind.css', './src/css/custom.stylus'],
+    social: {
+      github: 'https://github.com/jerefrer/leaf-dictionaries'
+    },
+    head: [{
+      tag: 'script',
+      content: `window.addEventListener('load', () => {
               var span = document.querySelector(".site-title span");
               if (span && span.textContent) {
                 var parts = span.textContent.split(" ");
@@ -33,28 +30,30 @@ export default defineConfig({
                 document.querySelectorAll(".site-title, .hero").forEach((element) => element.classList.add('colored'));
               }, 100);
             })`
-          },
-        ],
-        sidebar: [
-          {
-            label: 'Environments',
-            autogenerate: {
-              directory: 'environments'
-            }
-          }, {
-            label: 'Dictionaries',
-            autogenerate: {
-              directory: 'dictionaries'
-            }
-          }, {
-            label: 'Donate',
-            link: 'donate'
-          }
-        ]
+    }],
+    sidebar: [{
+      label: 'Installation',
+      autogenerate: {
+        directory: 'installation'
       }
-    ),
-    tailwind(
-      {applyBaseStyles: false}
-    )
-  ]
+    }, {
+      label: 'Dictionaries',
+      autogenerate: {
+        directory: 'dictionaries'
+      }
+    }, {
+      label: 'Troubleshooting',
+      autogenerate: {
+        directory: 'troubleshooting'
+      }
+    }, {
+      label: 'Credits',
+      link: 'credits'
+    }, {
+      label: 'Donate',
+      link: 'donate'
+    }]
+  }), tailwind({
+    applyBaseStyles: false
+  }), vue(), svelte()]
 });
