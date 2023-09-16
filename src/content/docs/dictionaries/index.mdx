@@ -1,8 +1,10 @@
 ---
-title: "Index"
+title: "Getting started"
 tableOfContents: false
 prev: false
 next: false
+sidebar:
+  order: 1
 ---
 
 import { LinkCard, CardGrid } from "@astrojs/starlight/components";
@@ -12,13 +14,19 @@ import NoteOfHowManyDictionariesAndLanguages from "@components/NoteOfHowManyDict
 <NoteOfHowManyDictionariesAndLanguages simple={true} />
 
 <LinkCard
-  href="dictionaries/packages"
+  href="packages"
   title="Packages"
   description="Browse packages of hand-picked dictionaries by language."
 />
 
 <LinkCard
-  href="dictionaries/search"
+  href="search"
   title="Search"
   description="Find exactly what you need among all dictionaries."
+/>
+
+<LinkCard
+  href="search"
+  title="Make your own"
+  description="Build your own dictionaries yourself!"
 />
