@@ -1,7 +1,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import tailwind from "@astrojs/tailwind";
-import vue from '@astrojs/vue';
 
 import svelte from "@astrojs/svelte";
 
@@ -55,5 +54,5 @@ export default defineConfig({
     }]
   }), tailwind({
     applyBaseStyles: false
-  }), vue(), svelte()]
+  }), svelte()]
 });
