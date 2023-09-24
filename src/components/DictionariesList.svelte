@@ -35,6 +35,7 @@
     options={languages}
     maxSelect={2}
     placeholder="Languages"
+    closeDropdownOnSelect={true}
     on:add={(event) => (select.open = false)}
   />
 </div>

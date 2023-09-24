@@ -27,8 +27,8 @@ dependencies:
     specifier: ^4.0.0
     version: 4.2.0
   svelte-multiselect:
-    specifier: ^10.1.0
-    version: 10.1.0
+    specifier: ^10.2.0
+    version: 10.2.0
   tailwindcss:
     specifier: ^3.0.24
     version: 3.3.3
@@ -4043,8 +4043,8 @@ packages:
       svelte: 4.2.0
     dev: false
 
-  /svelte-multiselect@10.1.0:
-    resolution: {integrity: sha512-zL16kwO13c5pkT6jgDxY1WXMSfH7z2EO3VI78I57AjYIM2u+XYaz1KUlfNOkQTmgVcVj7PmSF9xzXKMtf1xxCQ==}
+  /svelte-multiselect@10.2.0:
+    resolution: {integrity: sha512-nbv0dTgSHGENbwKdiN5seFD4ljtGSAEZGcMkHfcc+Nnk7tVwM2jxvCgkRKp9FdPUKG1M6Zp8ZXLDU+xoZxHyTA==}
     dependencies:
       svelte: 4.2.0
     dev: false
