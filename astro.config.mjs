@@ -14,22 +14,41 @@ export default defineConfig({
     social: {
       github: 'https://github.com/jerefrer/leaf-dictionaries'
     },
-    head: [{
-      tag: 'script',
-      content: `window.addEventListener('load', () => {
-              var span = document.querySelector(".site-title span");
-              if (span && span.textContent) {
-                var parts = span.textContent.split(" ");
-                span.innerHTML = [
-                  parts[0].split("").map((char) => '<u>' + char + '</u>').join(''),
-                  parts.slice(1),
-                ].join(" ");
-              }
-              setTimeout(() => {
-                document.querySelectorAll(".site-title, .hero").forEach((element) => element.classList.add('colored'));
-              }, 100);
-            })`
-    }],
+    head: [
+      {
+        tag: 'script',
+        content: `
+          window.addEventListener('load', () => {
+            var span = document.querySelector(".site-title span");
+            if (span && span.textContent) {
+              var parts = span.textContent.split(" ");
+              span.innerHTML = [
+                parts[0].split("").map((char) => '<u>' + char + '</u>').join(''),
+                parts.slice(1),
+              ].join(" ");
+            }
+            setTimeout(() => {
+              document.querySelectorAll(".site-title, .hero").forEach((element) => element.classList.add('colored'));
+            }, 100);
+          })
+        `
+      }, {
+        tag: 'script',
+        attrs: {
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-FYFKYL5NB9',
+          // 'id': 'G-FYFKYL5NB9',
+          async: true,
+        },
+      }, {
+        tag: 'script',
+        content: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-FYFKYL5NB9');
+        `
+      }
+    ],
     sidebar: [{
       label: 'Installation',
       autogenerate: {
