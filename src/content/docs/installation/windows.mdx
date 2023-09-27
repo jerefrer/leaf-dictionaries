@@ -8,6 +8,8 @@ next:
 ---
 
 import { Image } from "astro:assets";
+import { LinkCard, CardGrid } from "@astrojs/starlight/components";
+import { dictionaries, languages } from "@src/dictionaries-and-languages.js";
 import popupImage from "@assets/popup.png";
 
 The best way to use dictionaries offline in Windows is [**GoldenDict-ng**](https://xiaoyifang.github.io/goldendict-ng/).
@@ -53,14 +55,32 @@ As you can see, you'll be able to use dictionaries that support hyperlinks, like
 
 ### Finding dictionaries
 
-GoldenDict supports [more than 11 different types of dictionary **formats**](https://xiaoyifang.github.io/goldendict-ng/dictformats/), which will allow you use dictionaries found in many different places across the Internet.
+GoldenDict supports [more than 11 different types of dictionary **formats**](https://xiaoyifang.github.io/goldendict-ng/dictformats/), which will allow you to use dictionaries found in many different places across the Internet.
+
+<LinkCard
+  href="../../dictionaries"
+  title="Browse our collection of dictionaries"
+  description={`
+        We've got
+        <strong>
+          <span class="text-2xl">${dictionaries.length}</span>
+          dictionaries
+        </strong>
+        in
+        <strong>
+          <span class="text-2xl">${languages.length}</span>
+          languages
+        </strong>
+        ready for you to download.
+  `}
+/>
 
 :::note
 I believe the format that is the most easy to come by is the **StarDict** format. Just ask Google for "StarDict" and the language of your choice and the odds are you'll quickly find what you're looking for.
 :::
 
 :::tip
-If you want ready-made packages of languages, just head over the [GoldenDict dictionaries](/dictionaries) section.
+If you want ready-made packages of languages, just head over the [GoldenDict dictionaries](../../dictionaries/packages) section.
 :::
 
 ### Installing dictionaries

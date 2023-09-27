@@ -51,6 +51,9 @@ export default defineConfig({
     }, {
       label: 'Donate',
       link: 'donate'
+    }, {
+      label: 'Help & Contribution',
+      link: 'help-and-contribution'
     }]
   }), tailwind({
     applyBaseStyles: false
