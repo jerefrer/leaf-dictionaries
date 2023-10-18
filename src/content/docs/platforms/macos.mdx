@@ -1,0 +1,44 @@
+---
+title: MacOS
+description: Setting up offline dictionaries on MacOS
+prev: false
+next:
+  label: Dictionaries
+  link: /dictionaries
+---
+
+import { Image } from "astro:assets";
+import { LinkCard, CardGrid } from "@astrojs/starlight/components";
+import { dictionaries, languages } from "@src/dictionaries-and-languages.js";
+import downloadImage from "@assets/macos-download.png";
+
+**GoldenDict-ng** is the best way to use dictionaries offline on MacOS.
+
+### What is GoldenDict-ng?
+
+Check the [GoldenDict](../../goldendict/what-is-it) page for more informations on GoldenDict and GoldenDict-ng.
+
+### Installation
+
+#### Recent versions
+
+Download the installer for your version of MacOS by clicking one of the buttons below, then simply follow the installation instructions.
+
+<LinkCard
+  href="https://github.com/xiaoyifang/goldendict-ng/releases/download/v23.09.11-alpha.5c30873d/6.5.2-GoldenDict_macos-12_homebrew_20230927.dmg"
+  title="Download for MacOS 12 (Monterey)"
+/>
+
+<LinkCard
+  href="https://github.com/xiaoyifang/goldendict-ng/releases/download/v23.09.11-alpha.5c30873d/6.5.2-GoldenDict_macos-13_homebrew_20230927.dmg"
+  title="Download for MacOS 13 (Ventura)"
+/>
+
+#### Older versions
+
+If you're running MacOS before Monterey, GoldenDict-ng is not supported, but you can fall back to the legacy GoldenDict that works perfectly fine too.
+
+<LinkCard
+  href="https://sourceforge.net/projects/goldendict/files/early%20access%20builds/MacOS/GoldenDict-1.5.0-RC2-372-gc3ff15f%28Qt_5121%29.dmg/download"
+  title="Download for older MacOS"
+/>

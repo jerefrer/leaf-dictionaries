@@ -1,0 +1,39 @@
+---
+title: Installing dictionaries
+description: Installing dictionaries into GoldenDict
+prev: false
+next:
+  label: Adding dictionaries
+  link: adding-dictionaries
+---
+
+import { Image } from "astro:assets";
+import settingsImage from "@assets/dictionaries-settings.png";
+
+- Put all your dictionary files in one single folder.<br />
+  (I personally gather them in `Documents/GoldenDict`)
+
+- Launch GoldenDict
+
+- Click on `Edit > Dictionaries` or press `F3`
+
+- In `Sources > Files` (the default when opening Dictionaries), click on `Add`
+
+- Select the folder where you put all the dictionary files your downloaded
+
+- Click on the `Recursive` checkbox next to the folder in the list, like below:
+
+  <Image
+    src={settingsImage}
+    alt="Dictionaries settings"
+    width="459"
+    height="156"
+  />
+
+- Click `Apply`
+
+- That's it!
+  
+  GoldenDict will now be indexing all the dictionaries,
+  which might take a few minutes, but after that you're good to go,
+  it won't be necessary to re-index in the future.

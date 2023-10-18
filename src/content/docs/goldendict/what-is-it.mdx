@@ -1,0 +1,54 @@
+---
+title: What is it?
+description: What are GoldenDict and GoldenDict-ng?
+prev: false
+next:
+  label: Finding dictionaries
+  link: finding-dictionaries
+---
+
+import { Image } from "astro:assets";
+import popupImage from "@assets/popup.png";
+import { LinkCard, CardGrid } from "@astrojs/starlight/components";
+
+### What is GoldenDict?
+
+This is a **Dictionaries Lookup Program**, meaning that it doesn't rely on any one dictionary, but can read any number of dictionary **files** that you provide it.
+
+In other words you can have your English-English, English-French, Tibetan-English and English-Spanish dictionaries all in the same place, or whatever language you might be interested in, and jump to and from one another with a single click.
+
+With GoldenDict you can not only search for definitions in several dictionaries while offline, you'll also be able to define words from any applications by simply highlighting the text and pressing a hotkey (2x CTRL+C by default), like shown in the screenshot below.
+
+<Image
+  src={popupImage}
+  alt="GoldenDict popup definition window"
+  width="480"
+  height="406"
+  class="pl-1 bg-[#3347ff]"
+/>
+
+As you can see, you'll be able to use dictionaries that support hyperlinks, like the excellent WordNet dictionary that offers synonyms, antonyms and the like for every definition.
+
+
+### What is GoldenDict-ng?
+
+The original GoldenDict is no longer maintained so another team decided to revive the project, which became [**GoldenDict-ng**](https://xiaoyifang.github.io/goldendict-ng/).
+
+:::note
+`-ng` stands for _Next Generation_, since it's the revival of the older project GoldenDict.
+:::
+
+### Installation
+
+<LinkCard
+  href="windows"
+  title="Windows"
+/>
+<LinkCard
+  href="macos"
+  title="MacOS"
+/>
+<LinkCard
+  href="linux"
+  title="Linux"
+/>

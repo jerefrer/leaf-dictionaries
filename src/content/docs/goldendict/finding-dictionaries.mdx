@@ -1,0 +1,36 @@
+---
+title: Finding dictionaries
+description: Finding compatible dictionaries
+prev: false
+next:
+  label: Installing dictionaries
+  link: installing-dictionaries
+---
+
+import { LinkCard, CardGrid } from "@astrojs/starlight/components";
+import { dictionaries, languages } from "@src/dictionaries-and-languages.js";
+
+GoldenDict supports [more than 11 different types of dictionary **formats**](https://xiaoyifang.github.io/goldendict-ng/dictformats/), which will allow you to use dictionaries found in many different places across the Internet.
+
+<LinkCard
+  href="../../dictionaries"
+  title="Browse our collection of dictionaries"
+  description={`
+        We've got
+        <strong>
+          <span class="text-2xl">${dictionaries.length}</span>
+          dictionaries
+        </strong>
+        in
+        <strong>
+          <span class="text-2xl">${languages.length}</span>
+          languages
+        </strong>
+        ready for you to download.
+  `}
+/>
+
+:::tip
+The dictionary format that is the most easy to come by is the **StarDict** format.<br />
+Just ask Google for "StarDict" and the language of your choice and the odds are you'll quickly find what you're looking for.
+:::
