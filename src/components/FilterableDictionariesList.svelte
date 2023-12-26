@@ -45,7 +45,7 @@
   <NoteOfHowManyDictionariesAndLanguages />
 {:else}
   <h4>
-    Found {dictionaries.length} dictionaries for {selectedLanguages[0]}
+    Found {filteredDictionaries.length} dictionaries for {selectedLanguages[0]}
     {#if selectedLanguages[1]}
       and {selectedLanguages[1]}
     {/if}
