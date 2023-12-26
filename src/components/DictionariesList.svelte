@@ -46,7 +46,7 @@
       height: 100%
       opacity 0
     &:hover
-      background-color: #1eac8d
+      background-color: #3c3c3c
       .details
         opacity: 0
       .download-hint
