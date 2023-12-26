@@ -1,7 +1,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import tailwind from "@astrojs/tailwind";
-
 import svelte from "@astrojs/svelte";
 
 // https://astro.build/config
@@ -14,10 +13,9 @@ export default defineConfig({
     social: {
       github: 'https://github.com/jerefrer/leaf-dictionaries'
     },
-    head: [
-      {
-        tag: 'script',
-        content: `
+    head: [{
+      tag: 'script',
+      content: `
           window.addEventListener('load', () => {
             var span = document.querySelector(".site-title span");
             if (span && span.textContent) {
@@ -32,38 +30,49 @@ export default defineConfig({
             }, 100);
           })
         `
-      }, {
-        tag: 'script',
-        attrs: {
-          src: 'https://www.googletagmanager.com/gtag/js?id=G-FYFKYL5NB9',
-          // 'id': 'G-FYFKYL5NB9',
-          async: true,
-        },
-      }, {
-        tag: 'script',
-        content: `
+    }, {
+      tag: 'script',
+      attrs: {
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-FYFKYL5NB9',
+        // 'id': 'G-FYFKYL5NB9',
+        async: true
+      }
+    }, {
+      tag: 'script',
+      content: `
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
           gtag('config', 'G-FYFKYL5NB9');
         `
-      }
-    ],
+    }],
     sidebar: [{
       label: 'Platforms',
-      items: [
-        { label: 'Windows', link: 'platforms/windows' },
-        { label: 'MacOS', link: 'platforms/macos' },
-        { label: 'Linux', link: 'platforms/linux' },
-      ],
+      items: [{
+        label: 'Windows',
+        link: 'platforms/windows'
+      }, {
+        label: 'MacOS',
+        link: 'platforms/macos'
+      }, {
+        label: 'Linux',
+        link: 'platforms/linux'
+      }]
     }, {
       label: 'GoldenDict',
-      items: [
-        { label: 'What is it?', link: 'goldendict/what-is-it' },
-        { label: 'Finding dictionaries', link: 'goldendict/finding-dictionaries' },
-        { label: 'Installing dictionaries', link: 'goldendict/installing-dictionaries' },
-        { label: 'Adding dictionaries later', link: 'goldendict/adding-dictionaries-later' },
-      ],
+      items: [{
+        label: 'What is it?',
+        link: 'goldendict/what-is-it'
+      }, {
+        label: 'Finding dictionaries',
+        link: 'goldendict/finding-dictionaries'
+      }, {
+        label: 'Installing dictionaries',
+        link: 'goldendict/installing-dictionaries'
+      }, {
+        label: 'Adding dictionaries later',
+        link: 'goldendict/adding-dictionaries-later'
+      }]
     }, {
       label: 'Dictionaries',
       autogenerate: {
